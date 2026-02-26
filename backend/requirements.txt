@@ -1,0 +1,17 @@
+# FastAPI and server
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+
+# Database
+sqlalchemy==2.0.25
+psycopg2-binary==2.9.9
+
+# Auth (bcrypt 4.0.x required for passlib compatibility)
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.0.1
+
+# Config and validation
+pydantic[email]==2.6.1
+pydantic-settings==2.1.0
+email-validator==2.1.0

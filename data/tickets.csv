@@ -1,0 +1,1121 @@
+text,category,priority
+Outlook keeps crashing with error 0x80070005 whn sending emails.,Software Bug,Low
+My laptop keeps shutting down randoly while working on VPN.,Hardware Issue,Medium
+"Laptop is extremey slow, apps take minues to opn. This is delayig critical month-end processing.",Performance Issue,High
+"Hi team, Repors in BI dashboard take over 5 minutes to load.",Performance Issue,Medium
+Requesting VPN access for contractor m.garcia for the next 3 months.,Access Request,Medium
+Noticed unknown sotfware installed that I did not approve. pls,Security Incident,Medium
+Password reset link for my account has expired multiple times.,Account Issue,Low
+"Hi team, Excel plugin for reportnig fails with stacktrace: ORA-3627",Software Bug,High
+Mointor flckers and sometimes goes completely back during meetings. This is blocking my work and I have deadlines today. urgnt,Hardware Issue,Critical
+Outlok keeps crsahing with error 0x80070005 when sending emails.,Software Bug,Low
+Getting 'account disabled' message when rtying to sign in.,Account Issue,Low
+Monior flickers and sometimes goes completely black during meetings.,Hardware Issue,Medium
+Users in branch office report 'DNS_PROBEFINISHED_NXDOMAIN' on intranet. Entire team is unable to access critical systems.,Network Problem,Critical
+"Hi taem, Please grant readonly access to Salesforce for user asmith.",Access Request,Medium
+"Lapotp is extremeyl slow, apps take minutes to open.",Performance Issue,Low
+"I lsot access to Confluence after role change, getting acess denied.",Access Request,Medium
+Getting intermittent packet loss when accessing remote desktop. Entire team is unable to access critical system.,Network Problem,Critical
+Moniotr flickers and sometimes goes competely black during meetings.,Hardware Issue,Medium
+Password reset link for my account has expired multiple times urgnt,Account Issue,High
+Getting 'account disabled' message wehn trying to sign in.,Account Issue,Low
+"Hi team, USB ports on the doking staton stopped working after last restatr. This is blocking my work and I have deadlines today.",Hardware Issue,High
+USB ports on the docking station stopped working after last restart.,Hardware Issue,Medium
+"Hi tea, Cannot reach VPN, connection timed out while pinging 10 pls",Network Problem,Medium
+Printer in floor 3 is jammed and shows eror code E226.,Hardware Issue,Low
+"Laptop is extremey slow, apps take minuets to open.",Performance Issue,Medium
+WiFi keeps dropping every few minutes in meeting room A. Entire tem is unable to access crtiical systems.,Network Problem,Critical
+"Hi team, New joiner jdoe needs access to Jira with standard permissions",Access Request,Medium
+Getting 'account disalbed' mssage when tryig to sign in. eNed urgent help to join production clal.,Account Issue,High
+"Hi team, Noticed unknown software installed that I did not aprpove pls",Security Incident,Medium
+USB prots on the dockign staion stopped working after last retsart,Hardware Issue,Medium
+Requesting VPN access for contractor jdoe for the nxt 3 omnths.,Access Request,Low
+Latency to our database sevrer at 10,Network Problem,High
+Getting 'account disable' mesasge when trying to sgin in.,Account Issue,Medium
+New joiner m.garcia needs access to Jira with standard permissions.,Access Request,Low
+"Cannot reach VPN, connection timed out while pinging 10..7.50.",Network Problem,Low
+Pirnter in floor 3 is jammed and shwos error code E373.,Hardware Issue,Medium
+SAP transactions are tiimng out and running very slowly today.,Performance Issue,Low
+"Multpile failed login attempts detected on my account overnight. Potential security breach, pease investigate immediately. pls",Security Incident,High
+"Hi team, Reports in BI dashboard take over 5 minutes to load.",Performance Issue,Medium
+"Hi taem, Users in branch office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet. Etnire team is unable to accss critical systems.",Network Problem,High
+"Cannot reach VPN, connection timed out while pinging 10.0.11.16.2",Network Problem,Low
+"Cannot reach VPN, connection timed out while pinging 10.0.17.75. Entire taem is unable to acecss critical systems.",Network Problem,High
+SAP transactions are timing out and runnng very slowly today. This is delaying critical mont-end processing.,Performance Issue,High
+Users in banch office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet,Network Problem,Critical
+SSO login falis with 'invalid credentials' een after password reset.,Account Issue,Medium
+"My AD account is locked, can't log into Windows or email.",Account Issue,Medium
+"Hi team, SAP transactions are timing out and running very slowly today.",Performance Issue,Medium
+Getting 'account disabled' message when trying to sign in.,Account Issue,Medium
+Monitor flickers and sometimes goes completely black during meetings.,Hardware Issue,Low
+Password erset link for my account has expired multiple times.,Account Issue,Medium
+Antivirus detected Trojan on my machine connecting to 192,Security Incident,High
+"Hi team, Please grant read-only accses to VPN for user r.kumar.",Access Request,Low
+"Hi team, SAP transactions are timing out and running very slowly toda.y This is delaying critical month-ed processing.",Performance Issue,Critical
+"Hi team, iWFi keeps droping evey few minutes in meeting rom A.",Network Problem,Medium
+"Hi team, USB ports on the docking station stopped working after last restart. This is blocking my work and I have deadlines today.",Hardware Issue,High
+Excel plugin for reporting fails with stacktrace: ORA-7408. pls,Software Bug,Low
+Outlook keps crashing with error 0x80070005 when sending emails.,Software Bug,Low
+Printer in floor 3 is jammed and shows errr code E298. tnx,Hardware Issue,Low
+"Hi team, Multiple failed login attempts dtected on my account overnigth. Potential security breach, please investigate mimediately.",Security Incident,Critical
+Rmote edsktop to production server is laggy and unusabel,Performance Issue,Medium
+"Hi team, Please grant read-only access to Confluence for usr jdoe.",Access Request,Low
+"Excel plugin for reporting fails with stacktrace: ORA-9587. Needs immediate fix, critcial business rpocess impacted.",Software Bug,High
+SAP transactions are timing out and running very slwly today.,Performance Issue,Low
+Outlook keeps crashing with error 0x8070005 when sending emails.,Software Bug,Medium
+"Hi team, I lost access to HR portal aftr role change, getting access denied.",Access Request,Medium
+"After the latest update, our ERP client freezes on the login csreen. Nedes imediate fix, critical business process impacted.",Software Bug,High
+Getting 'account disabled' message when trying to sgin in.,Account Issue,Medium
+"Hi team, Antivirus detected Trojan on my machine connecting to 192.168.8.74. Potential security breach, please investigate immediately.",Security Incident,High
+WiFi ekeps dropping evry few minutes in meeting room A. Entire team is unable to access critical systems.,Network Problem,High
+"Received phishing emil asking for bank details fom fake IT support. Potential seucrity breach, please investigate immediately.",Security Incident,Critical
+"Hi team, Antivirus detected Trojan on my machine connecting to 192.168.0.412. Potential security breach, pease investigate immediately.",Security Incident,High
+Users in branch offce report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet.,Network Problem,Low
+WiFi keeps dropping every few minutes in meeting room A,Network Problem,High
+"Hi team, I lost access to Confluence after role change, geting access denied.",Access Request,Medium
+My laptop keeps shuttnig down randomly while working on VPN. This is blocking my work and I have deadlines today.,Hardware Issue,High
+"I lost access to Jira after role change, getting access denied. User is blocked from on-boarding tasks.",Access Request,High
+Remote desktop to production server is laggy and unusable.,Performance Issue,Medium
+SSO login fails with 'invalid credentials' even after password reset. asap,Account Issue,Low
+Please grnt read-only acess to VPN for user asmith. User is blocked from on-bording tasks.,Access Request,High
+Getting intermittent packet loss when accessing remtoe dekstop.,Network Problem,Medium
+New joiner m.garcia needs access to HR prtal with standard permissions.,Access Request,Low
+Users in branch office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet. Entrie tema is unable to acess critical sytsems.,Network Problem,High
+"Noticed unknown software installed that I did not approve. Potential sceurity breach, please investigate immediately.",Security Incident,High
+Printer in floor 3 is jammed and shows error code E169,Hardware Issue,Low
+"My AD account is locked, can't log into Windows or email.",Account Issue,Low
+"Noticed unknown software installed that I did not aprove. Potential security breach, please investigate immediately.",Security Incident,Critical
+"Cannot reach VP,N connection timed out while pinging 10.0.19.124. Entire team is unable to access critical sysetms.",Network Problem,High
+"I lost access to SAP after role chnage, getting access dneied. tnx",Access Request,Low
+Users in branch office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intrnet. Entre team is unable to access critical systems.,Network Problem,High
+"Hi team, Cannot reach VPN, connection timed out while pnging 10.0.18.230. tnx",Network Problem,Medium
+Reports in BI dashboard take over 5 minutes to load.,Performance Issue,Medium
+WiFi keeps dropping every few minues in meeting room A.,Network Problem,Medium
+Getting 'account disabled' message when trying to sgn in.,Account Issue,Medium
+"The keyboard on my desktop is not responding, tried reconnecting USB",Hardware Issue,Low
+Getting intermittent packet loss hwen accessing remote desktop. Entire team is unable to accses critical systems.,Network Problem,High
+"Hi team, Outloko keeps crashing with eror 0x80070005 when sending emails",Software Bug,Medium
+Remote desktop to production server is laggy and uusable,Performance Issue,Medium
+"Hi tema, The finance app throws HTTP 500 internal server reror on login.",Software Bug,Medium
+Getting 'account disabled' message when trying to sign in.,Account Issue,Medium
+Please grant read-only acecss to Salsforce for user jdoe.,Access Request,Low
+"My AD account is olcked, can't log into Windows or email.",Account Issue,Medium
+"After the latest update, our ERP client freezes on the login sreen",Software Bug,Medium
+Antivirus detected Trojan on my machine connecting to 192,Security Incident,High
+Password rest link for my account has expired multiple times.,Account Issue,Medium
+SSO login fails wih 'invalid credentials' even after password reset.,Account Issue,Low
+"Hi team, My AD account is locked, can't log into Windows or email.",Account Issue,Medium
+"Received phshing email asking for bnk detaisl fom afke IT support. Potential security breach, please investigate immediately.",Security Incident,Critical
+"After the latest update, our ERP clent freezes on the loin screen tnx",Software Bug,Medium
+"Hi team, Latency to our database server at 10",Network Problem,High
+"Hi tema, USB ports on the docking station tsopped working after last retsart.",Hardware Issue,Medium
+My laptop keeps shutting down randomly while working on VPN.,Hardware Issue,Low
+"The keyboard on my desktop is not responding, tried reconnecting USB.",Hardware Issue,Medium
+"Atfer the latest update, our ERP client freezes on the login sceren.",Software Bug,Low
+Getting 'account disabled' message when trying to sign in. asap,Account Issue,Medium
+"My AD account is locke,d can't log into Windows or emai. pls",Account Issue,Low
+Getting intermittent packt lsos when accessing remote desktop. Entire team is unable to acces critical systems.,Network Problem,High
+SSO login fails with 'invalid crednetials' even fater psasword reset. asap,Account Issue,Medium
+Latency to our database server at 10.0.2.33 is ovre 300ms. Entire team is unable to access critical systems. urgnt,Network Problem,High
+"Hi team, Cannot reach VPN, connection timed out while pinging 10.0.18.250. Entire team is unbale to access critical systems.",Network Problem,High
+Printer in floor 3 is jammed and shows error ocde E970. This is blocking my work and I have deadlines today.,Hardware Issue,Critical
+"Getting error 'NullReferenceException' whenever I try to save in the CRM. Needs immediate fx, critical business process impacted.",Software Bug,High
+Requesting VPN access for contractor jdoe for the next 3 monhts,Access Request,Low
+Please rgant read-only access to Confluene for user r.kumar.,Access Request,Low
+"Hi team, Requesting VPN access for contractor m.garia for the next 3 months. urgnt",Access Request,Medium
+"Excel plugin for reportig fails with stacktrace: ORA-2562. eNeds immediate fix, crtiical business porcess impacted.",Software Bug,High
+"Hi team, Excel plugin for reporting falis with stacktrace: ORA-4122",Software Bug,High
+Remote desktop to production server is laggy and unusable.,Performance Issue,Medium
+"Hi team, Noticed unknown software installed that I did not apporve. Potetnial security breach, please invstigate immdeiately.",Security Incident,High
+Priter in floor 3 is jammed and shows error cdoe E67,Hardware Issue,High
+"Hi team, New joinre jdoe nees access to SAP with standard permissions",Access Request,High
+"Hi team, Requesting VPN access for contractor jdoe for the next 3 months.",Access Request,Low
+"Hi team, After the latest update, our ERP clent freezes on the login screen.",Software Bug,Low
+"After the latest update, our ERP client frezees on the login screen. Needs immediate fix, critical business procss impacted. asap",Software Bug,Critical
+"Hi team, Latency to our database server at 10..00.147 is over 300ms. Entier team is uanble to access critical systems. urgnt",Network Problem,Critical
+"Cannot reach VPN, connection timed out while pinging 10",Network Problem,Critical
+Remote desktop to proudction server is laggy and unusable. hTis is delayign critical month-end procsesing.,Performance Issue,High
+Printer in floor 3 is jammed and shows error code E195. Tis is blocking my work and I have deadlines today.,Hardware Issue,High
+"Noticed uknnown softare installed that I did not approve. Potential security breach, please investigate immediatley.",Security Incident,High
+"The keyboard on my desktop is not responding, tried reconnecting USB.",Hardware Issue,Low
+"After the latest updat, our ERP client freezes on the login screen. Needs immediate fix, critical business process impacted.",Software Bug,High
+"I lost access to SAP after role change, getting access denied.",Access Request,Medium
+"After the latest update, our ERP client freezes on the login screen",Software Bug,Critical
+"Hi team, Outlook keeps crashing with error 0x80070005 when sending emails.",Software Bug,Medium
+USB ports on the docking station stoped working after lst restart.,Hardware Issue,Low
+SSO login fails with 'invalid credentials' even after password reset.,Account Issue,Medium
+Please grant read-only acess to Confluence for user jdoe.,Access Request,Low
+Password reset link for my account has expired mutliple time.s Need urgent help to join production call.,Account Issue,High
+My laptop keeps shutting down randomly while working on VNP.,Hardware Issue,Medium
+"Hi team, Requesting VPN access for contactor m.garcia for the next 3 months.",Access Request,Medium
+"Hi team, WiFi kepes dropping every few minutes in meeting rom A. Entire team is unable to access critical systems.",Network Problem,Critical
+"Received phishing email asking for bank details frm fake IT support. Potentail security breach, please investigate immediately.",Security Incident,High
+Requesting VPN access for contractor asmith for the next 3 months.,Access Request,Low
+"Hi team, Laptop is extremely slow, apsp take minutes to open. This is delaying critical month-end processing.",Performance Issue,Critical
+"Hi team, Noticed unknown softwre intalled that I did not approve.",Security Incident,Medium
+Users in branch office report 'DNS_PROBE_FINISHED_NXDOMAIN' on inranet. Enire team is unable to access critical systems.,Network Problem,Critical
+"Laptop is extremely slow, apps take minutes to open",Performance Issue,Medium
+New joiner asmith needs access to Confluence wtih standard permissions.,Access Request,Medium
+Getting intermittent packet loss when accessing remote edsktop. Entire team is unable to access critical systems.,Network Problem,High
+SSO login fails iwth 'invalid credentials' even after password reset.,Account Issue,Medium
+Antivirus detected Trojan on my machine connecting to 192,Security Incident,Critical
+"After the latest update, our ERP client frezes on the login scren.",Software Bug,Low
+"Hi team, Requesting VPN acces for contractr rk.umar for the next 3 months.",Access Request,Medium
+SSO login fais with 'invalid credetnials' even after password reset.,Account Issue,Medium
+Password reste lnk for my account has expred multiple times.,Account Issue,Medium
+Printer in floor 3 is jammed and shows error code E344.,Hardware Issue,Medium
+"Laptop is extremely slo,w apps take minutes to open.",Performance Issue,Medium
+Reote desktop to production server is lggy and uunsable.,Performance Issue,Medium
+"Multiple failed olgin attempts detected on my account overnight. Potential securiyt breach, please investigate immediately.",Security Incident,Critical
+"Multiple failed login attempts detected on my account overnight. Ptoential security breach, please investigate immediately.",Security Incident,Critical
+"Hi team, I lst access to SAP after role change, getting access denied",Access Request,Medium
+SSO login fails with 'invalid credentials' even after password reset.,Account Issue,Medium
+Printer in floor 3 is jammed and shows error code E581.,Hardware Issue,Medium
+"Hi team, Monitor flickers and sometimes goes comlpetely lback during meetings tnx",Hardware Issue,High
+SAP transactions are tiimng out and running very slwoly today.,Performance Issue,Low
+USB ports on the docking station stopped working after last restart,Hardware Issue,Medium
+"Hi team, Printer in floor 3 is jammed and shows error code E473.",Hardware Issue,Medium
+"Hi team, Noticed unknown software installed that I did not approve",Security Incident,Medium
+"After the latest update, our ERP client freezes on the login sreen",Software Bug,Low
+"I lost access to Salesforce after role change, getting access denied.",Access Request,Medium
+Remote dsektop to production server is laggy and unusable. This is delaying critical month-end pocessing.,Performance Issue,Critical
+Ltaency to our database server at 10.0.4.92 is oer 300ms. Entire team is unable to access critical systems. urgnt,Network Problem,Critical
+SAP transactions are timing out and running very slowly today.,Performance Issue,Medium
+Printer in floor 3 is jamed and shwos error code E324. This is blockig my work and I have deadlines today.,Hardware Issue,Critical
+WiFi keps dropping every few mintes in meeting room A. Entire team is unable to access critical system.,Network Problem,Critical
+"I lost access to Salesforce aftr role change, getting cacess denied.",Access Request,Medium
+SAP transacitons are timing out and running vrey slowly today.,Performance Issue,Medium
+"Multiple failed login attempts detected on my cacount overnight. Potential security breach, please investigate immediately.",Security Incident,High
+Getting 'account idsabled' message when trying to sgin in.,Account Issue,Medium
+"Multiple failed login attempts detected on my account overnight. Potential security breach, please investigate immediately. urgnt",Security Incident,High
+"Hi team, Received phishig email asking for bank details from fake IT support",Security Incident,Medium
+Excel plugni for reporting fails with stacktrace: ORA-9260,Software Bug,Medium
+Printer in floor 3 is jammed and shows error code E517. This is blocking my wrk and I have deadlines tday. urgnt,Hardware Issue,High
+Reports in BI dashboard take over 5 minutes to load. Tis is delaying critical month-end processing.,Performance Issue,High
+"After the latest update, our ERP client freezes on the login screen.",Software Bug,Low
+Printer in floor 3 is jammed and shows error code E838.,Hardware Issue,Low
+"Hi tam, Please grant read-only access to SAP for uer jdoe. asap",Access Request,Low
+Latnecy to our database servr at 10.0.8.139 is ovr 300ms. Entire team is unable to access critical systems.,Network Problem,High
+"Hi team, Cannot reach VPN, connection timed out while pinging 10 urgnt",Network Problem,High
+"The keyboard on my desktop is not responding, tried reconnecting USB. This is blocking my work and I have deadlines today.",Hardware Issue,High
+"Hi team, The finance app throws HTTP 500 internal server error on loin. Neds immedaite fix, critical business porcess impacted.",Software Bug,High
+Requestnig VPN access for contractor r.kumar for the next 3 monhs.,Access Request,Medium
+"Cannot reach VPN, connection timed out hwile pinging 10.0.8.35. tnx",Network Problem,Medium
+Reports in BI dashboard take over 5 minutes to load,Performance Issue,Medium
+Requesting VPN access for contractor m.garcia for the enxt 3 months.,Access Request,Low
+"Antivirus detected Trojan on my machine connecting to 192.168.4.160. Potential secruity breach, lpease investigate immediately. pls",Security Incident,High
+Anitvirus detected Trojan on my machine connectnig to 192.168.10.206.,Security Incident,Medium
+"After the latest update, our ERP client freezes on the lgoin screen.",Software Bug,Medium
+"Afer the latest update, our ERP client freezes on the login screen. eNeds immediate fix, critical business process impacted. asap",Software Bug,High
+"Hi tea,m Users in branch office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet.",Network Problem,Medium
+"Cannot reach VPN, conection timed out whie pining 10.0.16.155. Entire team is unable to access crtiical systems.",Network Problem,Critical
+"Hi taem, After the latest update, our ERP client freezes on the login screen.",Software Bug,Medium
+Monitor lfickers and osmetimes geos completely black during meetings. This is blocking my wrk and I have deadines today.,Hardware Issue,High
+"Hi team, Antivirus detected Trojan on my machine connecting to 192.168.6.45.",Security Incident,Medium
+Monitor flicekrs and sometimes goes cmpletely back during meetings.,Hardware Issue,Medium
+"Hi team, Getting error 'NullReferenceException' whenever I try to save in the CRM.",Software Bug,Low
+Remote desktop to production serer is laggy and unusable,Performance Issue,Medium
+"Hi team, Printer in floor 3 is jammed and shows error ocde E77.",Hardware Issue,Medium
+"Multiple faild login attempts detected on my account overnight. Potential security breach, please investigate immediately.",Security Incident,High
+Please grnat read-only access to VPN for user r.kumar. Usre is blocked from on-boarding tasks.,Access Request,Critical
+"Hi team, Cannot reach VPN, connection timed out while pinging 10",Network Problem,High
+"Noticed unknown software installed taht I did not approve. Potential sceurity breach, please investigate immediately.",Security Incident,High
+New joiner r.kumar needs access to Jira with standard permissions.,Access Request,Medium
+"Hi team, Received phishing meail asking for bank details from fake IT support",Security Incident,Medium
+"Hi team, My AD account is locked, can't log itno Wndows or email.",Account Issue,Medium
+Excel plugin for reporting fails wih stacktrace: ORA-3415,Software Bug,High
+SSO lgin fails with 'invalid credentials' even after password reset,Account Issue,Medium
+Requesting VPN access for contractor jdoe for the next 3 months. sUer is blocked from on-boarding tasks.,Access Request,High
+"After the latest updat,e our ERP client freezes on the login screen tnx",Software Bug,Low
+"Hi team, WiFi keeps dropping every few minutes in meeting room A. Entire team is unable to access critical systems.",Network Problem,Critical
+Please grant read-only access to SAP for user asmith,Access Request,Low
+WiFi keeps dropping every few minutes in meeting room A.,Network Problem,Low
+"Laptop is extremely slow, apps tkae minutes to open. Tis is delaying critical month-end processig.",Performance Issue,Critical
+Reports in BI dashboard tke ovr 5 minutes to load. hTis is deaying critical month-end proessing. asap,Performance Issue,High
+Getting intermittent packet lss when accessing remote desktop,Network Problem,High
+SSO login fails with 'invalid credentials' eevn after password reset,Account Issue,High
+Getting 'account disabled' message when trynig to sgn in.,Account Issue,Medium
+"Hi team, Getting intermittent packet loss when accessing reomte desktop. Entire team is unable to acces critical systems.",Network Problem,Critical
+Outlook keeps crashing with errr 0x8070005 when sending emals pls,Software Bug,High
+Requesting VPN access for contractor r.umar for the next 3 montsh.,Access Request,Medium
+Multiple faield login attepmts detected on my acconut ovenight,Security Incident,High
+Montor flickers and sometimes goes completely black during meetings. This is blocking my work and I have dealdines today.,Hardware Issue,High
+Monitor flickers and sometimes goes completely black during meetings.,Hardware Issue,Low
+Please grnt read-only access to SAP for user jde.,Access Request,Medium
+Password reset lnk for my account has expired multiple times. Need urgent help to join production call.,Account Issue,High
+"Antivirus deteced Trojan on my mcahine connetcing to 192.168.10.94. Potential security breach, please investigate immediately.",Security Incident,High
+Reprts in BI dashboard take over 5 minutes to load,Performance Issue,Medium
+WiFi keeps dropping evry few minutes in meetig room A.,Network Problem,Medium
+"I lost accses to Conflence after role change, getting access denied. tnx",Access Request,Medium
+Recived phishing email asking for bank details from fake IT supoprt,Security Incident,High
+"After the latest update, our ERP client freezes on the login screen. Needs immediate fi, critical business process impacted.",Software Bug,High
+SAP transactions are timing out and running very slowly today.,Performance Issue,Low
+"I lost access to Jira fater rle change, geting access denied.",Access Request,Medium
+"Hi tema, Users in brnach office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet. Entire team is unable to access critical systems.",Network Problem,High
+"Afer the latet update, our ERP cient freezes on the login screen. Needs immediate fix, critical business process impacted.",Software Bug,Critical
+"I lost access to SAP after role change, getting access denied",Access Request,High
+"Hi team, Getting error 'NullReferenceException' whenever I try to save in the CRM",Software Bug,Medium
+Password reset lnk for my account has expired multiple times.,Account Issue,Medium
+Multiple failed login attemps deteced on my cacount overnight,Security Incident,High
+Noticed unknown software installed that I did not approve asap,Security Incident,Medium
+"Hi team, Please grant read-only access to VPN for user r.kumar. tnx",Access Request,Medium
+Latency to our database server at 01.0.14.154 is over 300ms. Entire team is unable to access critical systems.,Network Problem,High
+Received phishing email asking for bnak details frmo fake IT support,Security Incident,Critical
+"The finance app thorws HTTP 500 internal server error on login. Needs immediate fix, critical business process impacted.",Software Bug,High
+The finance app trhows HTTP 500 internal serevr error on login.,Software Bug,Low
+USB ports on the docking station stopped working after last restart. This is blocking my wok and I have deadlines toda.,Hardware Issue,High
+"Excel plugin for reporting fails with stacktrace: ORA-3619. Needs immediate fix, critical business process imacted. urgnt",Software Bug,High
+"The keyboard on my desktpo is not responding, tried reconnecting USB. This is blocking my work and I hvae deadlines today.",Hardware Issue,Critical
+Printer in floor 3 is jammd and hsows error code E345. This is blocking my work and I have deadlines today.,Hardware Issue,High
+Mnoitor flickers and sometimes goes completely black during meetings. tnx,Hardware Issue,Medium
+"Hi tem, New joiner jdoe needs acecss to Jira with tsandard permissions",Access Request,Medium
+"Outlook keeps crashing with eror 0x80070005 when sending emails. Needs immediate fix, critical busiess porcess impacted.",Software Bug,High
+"Hi team, The keyboard on my desktop is not responding, tried reconnecting USB.",Hardware Issue,Low
+Password reset link for my account has expired multiple times.,Account Issue,Low
+"Hi team, I lost access to Salesforce after role change, getting access denied.",Access Request,Low
+Mnitor lfickers and sometimes goes compleetly black during meetings. This is blocking my work and I have deadlines today.,Hardware Issue,High
+SSO login fails with 'invalid credentials' even aftr password reset.,Account Issue,Medium
+Nticed unknown software installed that I did not approve.,Security Incident,Medium
+Usesr in branch office report 'DNS_PROBE_FINSIHED_NXDOMAIN' on intranet,Network Problem,High
+Requesting VPN accss for contractor jdoe for the next 3 months. pls,Access Request,Medium
+Psasword reset link for my account has expied multiple times.,Account Issue,Medium
+Getting intermittent packet loss wen accessing remote desktop.,Network Problem,Medium
+"Received phishing email askign for bank details from fake IT support. Potential securtiy breach, please investigate immediately.",Security Incident,Critical
+WiFi keeps dropping every few minutes in meeting room A. Entire team is unable to access criitcal systems.,Network Problem,Critical
+Reports in BI dashboard take over 5 minutes to load,Performance Issue,Medium
+"I lost access to SAP after rle change, getitng access denied.",Access Request,Low
+Getting 'account disabled' message hwen trynig to sign in.,Account Issue,Medium
+"My AD account is locked, can't log into Windows or emil. pls",Account Issue,Medium
+"I lost access to HR portal after role change, getting access denied. pls",Access Request,Medium
+"Getting error 'NullReferenceException' whenever I try to asve in the CRM. Needs immediate fix, critical business porcess impacted.",Software Bug,High
+"My AD account is locked, can't log into Windows or email.",Account Issue,Low
+"Hi tam, Mnoitor filckers and sometimes ges completely black during meetings.",Hardware Issue,Medium
+"My AD account is locked, can't log into Windows or email.",Account Issue,Medium
+"Hi team, Printer in floor 3 is jammed and shows error coed E23.",Hardware Issue,Medium
+"My AD account is locekd, cant' log nito Windows or email",Account Issue,Medium
+Remote desktop to produciton server is laggy and unusable.,Performance Issue,Low
+Received phishing email asking for bank details rfom fake IT support,Security Incident,Medium
+"Hi team, Excel plugin for repotring fails with stacktrace: ORA-9709",Software Bug,Medium
+Multiple falied login attempts detected on my cacount overnight.,Security Incident,Medium
+Received phishing email asking for bank details from fake IT support,Security Incident,Medium
+"Hi team, Users in branch ofice report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet",Network Problem,Critical
+"After the latest update, our ERP client freezse on the logni screen.",Software Bug,Medium
+"Antivirus detected Trojan on my machine connecting to 192.168.7.157. Potential security breach, please investigate immediately.",Security Incident,Critical
+"Notced unknown software installed that I did not approve. Potential security breach, please investigate immediately.",Security Incident,High
+My laptop keeps shutting down randomly while working on VPN. This is blocking my work and I have deadlines today.,Hardware Issue,High
+"Hi team, Password reset link for my account has expired multiple times.",Account Issue,Medium
+"My AD account is locked, can't log into Windows or email.",Account Issue,Medium
+Requesting VPN access for contractor jdoe for the next 3 months.,Access Request,Medium
+New joinre jdoe needs access to Jira with standard permissions,Access Request,Medium
+New joiner jdoe eneds access to SAP with standard permissions,Access Request,Low
+"Hi team, Gtting intermittent packet loss when accessing remote desktop. Entire team is unable to access critical systems.",Network Problem,Critical
+"Getting error 'NullReferenceException' whenever I try to save in the CR.M Neds immediate fix, critical business prcoess ipmacted.",Software Bug,High
+Antivirus detected Trojan on my machine connecting to 192.168.1.42.,Security Incident,Medium
+New joiner asmith needs access to Jira with standard permissions.,Access Request,Low
+"Hi team, Requesting VPN access for contactor r.kumar for the next 3 months.",Access Request,Medium
+"Hi team, Noticed unknown software installed that I did not approe",Security Incident,High
+USB ports on the docking station stopped workign after last restart. This is blocking my work and I have deadlines today.,Hardware Issue,High
+"Antivirus detected Trojan on my machie connectign to 192.168.8.84. Potentila security breach, please investigate immediately.",Security Incident,High
+aPssword reset link for my account has expied multiple times,Account Issue,Medium
+"Antivirus detected Trojan on my machine connecting to 192.168.4.417. Potential security breach, please investigate immediately.",Security Incident,Critical
+"Cannot reach VPN, connection timed out while pinging 10.0.17.84.",Network Problem,Medium
+SSO login fails with 'invalid credentials' even after password reest.,Account Issue,Low
+SAP transactions are timing out and running very slowly today.,Performance Issue,Medium
+My laptop keeps shutting down randomly while woking on VPN. Tihs is blocking my work and I have deadlines today.,Hardware Issue,High
+Getting error 'NullReferenceException' whenever I try to save in the CRM.,Software Bug,Medium
+Getting error 'NullReferenceException' whenever I try to save in the CRM,Software Bug,Medium
+Excel pluin for reporting fais with stacktrace: ORA-8972,Software Bug,High
+"Ativirus detected Trojan on my machine connecting to 192.68.3.64. Potential escurity breach, please investigate immediately.",Security Incident,Critical
+Users in brach office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet. Entire team is unable to accses critical systems.,Network Problem,High
+"Hi team, Getting intermittent packet loss when accessing remote desktop.",Network Problem,Medium
+"Hi team, Multiple failed login attempts detected on my account overnight. Potential security breach, please investigate immediately.",Security Incident,Critical
+Password reset link for my account has expired multiple times.,Account Issue,Medium
+Latency to our database sever at 10.0.10.134 is over 300ms. Entire team is unable to cacess critical systems.,Network Problem,High
+"Cannot reach VPN, connection timed out while pinging 10.0.6.187. Entire team is unable to access critical systems.",Network Problem,Critical
+Reports in BI dashboard take oer 5 minutes to load,Performance Issue,Medium
+New joiner asmith needs acess to SAP with standard permissions.,Access Request,Low
+My laptop keeps shutting down randomly whlie woking on VPN. This is blocking my work and I have deadlines toady. urgnt,Hardware Issue,Critical
+Remote desktop to proudction server is laggy and unusable asap,Performance Issue,Low
+"Laptop is extremely slow, apps take minutes to open. This is delaying critical mont-end processing.",Performance Issue,Critical
+Reports in BI dashboard take over 5 minutes to load,Performance Issue,Low
+Getting error 'NullReferenceException' whenever I try to save in the CRM,Software Bug,High
+"Antivirus detected Trjan on my machine connecting to 192.168.4.229. Potential security breach, please investigate immediately.",Security Incident,High
+Excel plugin for reporting fails with stacktrace: ORA-2449.,Software Bug,Low
+Requesting VPN access for contractor jdoe for the next 3 months.,Access Request,Medium
+"Hi team, Getting eror 'NullReferenceException' whenever I try to save in the CRM. Needs immediate fix, critcial ubsiness process impacted.",Software Bug,High
+"Hi team, Outlook keeps rcashing with errr 0x80070005 when sending email.",Software Bug,Medium
+"Cannot reach VPN, connection timed out while pinging 10.0.6.134.",Network Problem,Low
+Requesting VPN access for contractor r.kumar for the next 3 months. tnx,Access Request,Low
+"Hi team, The finance app throws HTTP 500 internal server errr on login. Needs immediate fix, critical business process impacted.",Software Bug,High
+"Cannot reahc VPN, connection timed out wihle pinging 10.0.1457. Entire team is unable to access critical systems.",Network Problem,High
+"Antivirus detected Trojan on my machine connecting to 1921.68.1.76. Potential secruity breach, please nivestigate immediately.",Security Incident,High
+"Laptop is extremely slow, apps tae minutes to open.",Performance Issue,Medium
+Excle plugin for repotring fails with stacktrace: ORA-1781. pls,Software Bug,Medium
+"My AD account is locked, cn't log into Windows or email.",Account Issue,Low
+Remote desktop to prodution server is laggy and unusable. This is delaying criitcal month-end processing. tnx,Performance Issue,Critical
+Printer in floor 3 is jammed and shows error code E878.,Hardware Issue,Medium
+Printer in lfoor 3 is jammde and shows error code E837. urgnt,Hardware Issue,Low
+"Hi team, Cannot reach VPN, connection timed out while pingnig 10.0.12.44.",Network Problem,Medium
+Monitor lfickers and sometimes goes completely black during meetings.,Hardware Issue,Medium
+"Hi tea, SSO loin fails with 'invalid credentials' even ater password reset.",Account Issue,Low
+"Hi team, Oultook keeps crashing with error 0x80070005 when sending emails. Needs immediate fix, critical business process impacted. tnx",Software Bug,High
+Otulook keesp crashing with error 0x80070005 when sendign emails,Software Bug,High
+SSO login fails with 'invalid credentials' even after passwrd reset.,Account Issue,Medium
+"My AD account is locked, can't log into Windows or email.",Account Issue,Medium
+Users in branch office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet. Etire team is unable to access critical systems.,Network Problem,Critical
+"Hi team, Printer in floor 3 is jammed and shos error code E485",Hardware Issue,High
+USB ports on the docikng sttion stopped working after last restart.,Hardware Issue,Low
+"Hi team, New joiner r.kumar needs acces to Salesforce with standard permissions.",Access Request,Medium
+Printer in floor 3 is jammd and shosw error ocde E844. This is blockng my work and I have daedlines today.,Hardware Issue,High
+"Hi team, SSO login fails wtih 'invalid credentials' even after password reset.",Account Issue,Medium
+"Hi team, Please grant rad-only access to Confluence for user r.kumar.",Access Request,Low
+SSO login fails with 'invalid credentails' even after password reset asap,Account Issue,Medium
+"I lost access to VPN after role change, getting access denied.",Access Request,Low
+"Hi tea,m WiFi keeps dropping every few minutes in meeting room A. Entire team is unable to access crtical systems.",Network Problem,High
+Latency to our database server at 10..020.209 is over 300ms. Entire team is unable to access critical sytems. asap,Network Problem,Critical
+"Multiple failed login attempts detected on my account overnight. Potential security breach, please invstigate immediately.",Security Incident,Critical
+WiFi keeps dropping every few minutes in meeting room A,Network Problem,High
+"Hi team, Please grant read-only access to Salesforce for user m",Access Request,Low
+"Hi team, My laptop keeps shutting down randomly whlie working on VPN.",Hardware Issue,Medium
+"Hi team, Outlook keeps crashing with error 080070005 whne sending emails. tnx",Software Bug,Medium
+Please grant read-only access to HR prtal for user asmiht,Access Request,Medium
+Monitor flickers and sometimes goes completely black during meetings. This is blocking my wrok and I have deadlines today.,Hardware Issue,Critical
+"Hi team, Monitor flickers and sometimes gos completely back during meetings.",Hardware Issue,Medium
+"Laptop is extremely slow, apps take minutes to open. Ths is delaying critical month-end processing.",Performance Issue,High
+Getting 'account disabled' message whn trying to sign in,Account Issue,Medium
+"After the latest update, our ERP clent freezes on the login screen.",Software Bug,Low
+"Hi tam, Requesing VPN access for contractor jode for the enxt 3 months.",Access Request,Medium
+Getting 'account disabled' mesasge hwen trying to sign in,Account Issue,Low
+"Hi team, USB pors on the docking station stopped working after last restart",Hardware Issue,High
+"Outlook keps crashing with erorr 0x80070005 when sending emaisl. Needs immediate fix, critical business process impacted.",Software Bug,High
+Getting 'accunt disabled' message when trying to sign in.,Account Issue,Low
+Getting error 'NullReferenceException' whenever I try to save in the CRM.,Software Bug,Medium
+SAP transactons are timing out and running very slowly today,Performance Issue,Medium
+"After the latest update, our ERP client freezes on the login screen. Needs immediate fix, critcial business process impacted.",Software Bug,High
+Requesting VPN access for contractor jdoe for the next 3 months.,Access Request,Medium
+My laptop keeps shutting down randomly while working on VPN.,Hardware Issue,Medium
+Remote destop to production srever is laggy and unusable. This is delaying critical month-end processing.,Performance Issue,High
+Please grant read-only access to Confluence for user r.kumar. asap,Access Request,Medium
+Password reset link for my account has xepired multiple times. urgnt,Account Issue,Medium
+"The keyboard on my desktop is not responding, tied reconnecting US. asap",Hardware Issue,Medium
+Gettng 'account disabled' message when trying to sign in.,Account Issue,Low
+Please grant read-only accss to Salesforce for user m.garcia. User is blocked from on-boarding taks.,Access Request,High
+Excel plugin for reporting fails with stacktrace: ORA-4259. urgnt,Software Bug,Medium
+"eRceived phishing email asking for bank details from fake IT support. Potential security breach, please investigate immediately.",Security Incident,High
+"Hi team, fAter the latest update, our ERP client freezes on the login screen.",Software Bug,Medium
+SAP transactions are timing out and running very slowly today,Performance Issue,High
+Printer in floor 3 is jammd and shows error coed E60.,Hardware Issue,Low
+Reports in BI dashboard take voer 5 minutes to load,Performance Issue,Critical
+Excel plgin for reporting fils with stacktrace: ORA-8496,Software Bug,Medium
+Remote desktop to productin server is laggy and unusable. This is delaying critical month-end processing.,Performance Issue,Critical
+WiFi keeps dropping every few mniutes in meeting room A. Entire team is unable to access critical systems.,Network Problem,High
+"Hi team, My laptop keeps shutting don randomly whiel working on VPN. asap",Hardware Issue,Medium
+"Hi team, Latenyc to our database server at 10.0.6.23 is over 300ms. Entire team is unable to acces critical systems.",Network Problem,Critical
+SAP transactions are timing out and urnning very slowly tdoay.,Performance Issue,Medium
+Requesting VPN access for contractor m.garcia for the next 3 months.,Access Request,Medium
+"Hi tam, My AD account is locked, cn't log into Windows or email.",Account Issue,Low
+"Hi team, New joiner asmith needs access to Confluence with standard permissions.",Access Request,Medium
+"Hi team, New joiner r.kumar needs access to Saleforce with standard permissions. User is blocked from on-boarding tasks.",Access Request,High
+Outlook keeps crashing with reror 0x80070005 when sending emails,Software Bug,High
+WiFi keeps dropping every few minutes in meeting room A.,Network Problem,Medium
+"After the latest update, our ERP client freezes on the login screen.",Software Bug,Low
+"Laptop is extremely slow, apps take minutes to open",Performance Issue,High
+"Antivirus detected Trojan on my machine connecting to 192.168.9.132. Potential security breach, please investigate immediately.",Security Incident,High
+"Hi team, My laptop keeps shutting down randomly while working on VPN. This is blocking my wok and I have deadlines today.",Hardware Issue,High
+"Hi team, Received phishing email asking for bank details from fake IT support.",Security Incident,Low
+Please grant read-only access to SAP for user r.kumar.,Access Request,Low
+"Getting error 'NullReferenceException' whenever I try to save in the CRM. Needs immediate fix, critical business proces impacted.",Software Bug,High
+SAP transactions are timing out and running vey slowly today,Performance Issue,Medium
+"Hi team, Antivirus detected rTojan on my machine connecting to 192 tnx",Security Incident,Critical
+Remote desktop to production server is laggy and uusable,Performance Issue,High
+Remote desktop to porduction server is laggy and unusable.,Performance Issue,Medium
+"Hi team, Outlook keeps crashing with error 0x80070005 when snding emails. Needs immediate fi, critical business process impacted.",Software Bug,Critical
+Remote desktop to production server is laggy and unusable.,Performance Issue,Low
+"Noticed unknown software installed that I did not approve. Potential security breach, please investigate immediately.",Security Incident,High
+Printer in floor 3 is jammed and shows error code E284.,Hardware Issue,Low
+Requesting VPN access for contractor jdoe for the next 3 months. tnx,Access Request,Medium
+Getting intermittent packet loss whne accessing remote desktop. Enire team is uable to accss critical systems.,Network Problem,High
+Received phishing email asking for bank detials from fake IT support.,Security Incident,Medium
+"Hi tea, Remote desktop to production serer is laggy and unuable. pls",Performance Issue,Medium
+Monitor flickesr and soemtimes ges completely black during meetings.,Hardware Issue,Medium
+"Laptop is extremely slow, apps take minutes to opne",Performance Issue,Low
+"The kyeboard on my desktop is not reponding, tried reconnecting USB. This is blocikng my work and I have deadlines today.",Hardware Issue,High
+"Laptop is extreemly slow, aps take minutes to opn.",Performance Issue,Low
+WiFi keeps dropping every few minutes in meeting room A.,Network Problem,Medium
+Noticed unknown software instaled that I did not approve,Security Incident,Low
+Outlook keeps crashing with error 0x8007005 when sending emails.,Software Bug,Medium
+WFi keeps dropping every few minutes in meetnig room A,Network Problem,Critical
+Requesting VPN access for contractor r.kumar for the nxt 3 months.,Access Request,Low
+Remote desktop to production server is laggy and unusable.,Performance Issue,Low
+Pelase grant read-only access to VPN for uer asmit.,Access Request,Low
+"Multiple failed login attempts detected on my account overnigt. Potential securiy breach, please investigate immediately.",Security Incident,Critical
+"My AD account is locked, can't log into Windows or email.",Account Issue,Low
+Notiecd unknown software installed that I did not approve,Security Incident,Low
+"Antivirus edtected Trjoan on my machine connecting to 192.168.1.248. Potental security breach, please investigate immediately. pls",Security Incident,Critical
+Requesting VPN acces for contractro m,Access Request,Low
+Requesing VPN access for contractor joe for the next 3 months,Access Request,Low
+SSO login fails with 'invalid rcedentials' even after password reset,Account Issue,Low
+"Hi team, Remote desktop to production server is laggy and unusable.",Performance Issue,Medium
+SSO logn fails with 'invalid credentials' een after password reset.,Account Issue,Medium
+Reqeusting VPN access for contractor m.garcai for the netx 3 months.,Access Request,Low
+Reports in BI dashboard take over 5 minutes to load. This is delayng critical month-end processing.,Performance Issue,High
+"Laptop is extremely slow, apps take miuntes to open",Performance Issue,High
+Latency to our database server at 10,Network Problem,Critical
+Gteting 'accont disabled' message hwen trying to sign in.,Account Issue,Medium
+SAP transactions are timing out and running very slowly toda. Ths is delaying cirtical month-end processing. pls,Performance Issue,High
+"Multiple failed login attempts detected on my account overnight. Potential security breach, please investgate immediately.",Security Incident,High
+xEcel plugin for repotring fials with stacktrace: ORA-5016,Software Bug,Low
+Outlook ekeps crashing with error 0x80070005 when sending emails.,Software Bug,Medium
+Getting 'account disabled' message when trying to sign in.,Account Issue,Medium
+Remote desktop to production server is laggy and uusable.,Performance Issue,Medium
+Outlook keeps crashing with error 0x80070005 when sending emails,Software Bug,Medium
+Multiple failed login attemtps detected on my account ovrnight,Security Incident,High
+"The keyboad on my desktop is not responding, tried reconnecting USB.",Hardware Issue,Medium
+"Hi team, Printer in flor 3 is jmamed and sows error code E795. This is blocking my work and I have deadlines today. urgnt",Hardware Issue,Critical
+The finance app throws HTPT 500 internal server error on login.,Software Bug,Medium
+"Hi tea,m I lost access to HR portal after role change, geting access denied",Access Request,Medium
+Latency to our database server at 10.0.0.40 is ovr 300ms. Entire team is unable to access critical systems. tnx,Network Problem,Critical
+"Hi tema, Requesting VPN access for contractor r",Access Request,Medium
+Reports in BI dashboard take over 5 minues to load.,Performance Issue,Low
+Printer in floor 3 is jammed and shows error code E137. This is blocking my work and I have deadlines today.,Hardware Issue,High
+"I lost access to Salesforce aftre role change, getting access denied.",Access Request,Low
+Monitor flickers and sometimes gos completely black during meetings.,Hardware Issue,Low
+"My AD accuont is locke, can't log into Widows or meail.",Account Issue,Low
+"I lst access to VPN after role change, getting access denied.",Access Request,Medium
+"Hi team, I lost cacess to Jra after role change, getting access denied.",Access Request,Medium
+"Excel plugin for reporting fails with stactrace: ORA-7974. Needs immediate fix, critcal business pocess impatced.",Software Bug,High
+"Cannot raech VPN, connection timed out while pinging 10.0.13.11. Entire team is unalbe to access critical systems.",Network Problem,High
+"Hi team, New joinre jdoe needs access to Salesforce with standard permissions.",Access Request,Medium
+Getting 'account disabled' message when trying to sign in. Need urgent help to join production call.,Account Issue,High
+"I lost access to SAP after role change, getting access denide.",Access Request,Medium
+eRmote desktop to production server is lagy and unusable. pls,Performance Issue,Medium
+Remote desktop to production server is laggy and unusable.,Performance Issue,Medium
+Nticed unknown software installed that I did not approve.,Security Incident,Low
+My lptop keeps shtting down randomy while working on VPN. This is blocking my work and I have deadlines today.,Hardware Issue,High
+"Hi team, iWFi keeps dropping evrey few minutes in meeting room A",Network Problem,Medium
+Users in branch office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet. Entire team is unale to access critical sytsems.,Network Problem,High
+Getting intermittent packet loss when accesisng remote desktop.,Network Problem,Low
+"The finance app throws HTTP 500 internal server error on login. Needs immediate fix, critical bsiness procss impacted.",Software Bug,High
+"Hi team, Received phishnig email asking for bank details from fake IT support.",Security Incident,Medium
+WiFi keeps dropping every few mintues in meeting room A. Entire team is unable to acces critcal systems.,Network Problem,High
+"Multipe failed login attempst deetcted on my account oevrnight. Potential security breach, please nivestigate immediately.",Security Incident,Critical
+"Hi tema, Getting 'account disabled' message when trying to sign in.",Account Issue,Medium
+New joiner m,Access Request,Medium
+"Hi team, Getting 'account disabled' message when trying to sign in.",Account Issue,Low
+"Laptop is extremeyl slow, apps tae minutes to open.",Performance Issue,Medium
+My lpatop keeps shutting down randomly while working on VPN,Hardware Issue,Medium
+Outlook keeps crashing with error 0x80070005 when sending emails.,Software Bug,Medium
+Gtting intermittent packet loss when accessing rmote desktop,Network Problem,High
+Monitor flickers and sometimes ges completely black during meetings,Hardware Issue,Medium
+"Hi team, Remote desktop to production server is laggy and unusable. Tis is delaying critical month-end processing.",Performance Issue,High
+Getting 'account disabled' message when trying to sign in.,Account Issue,Low
+"Hi tea, Pasword reset link for my account has expired multiple times.",Account Issue,Low
+Reports in BI dashboard tke over 5 minutes to lod. This is delaying critical omnth-end processing.,Performance Issue,Critical
+"Hi team, My laptop keeps shutting down randomly while working on VPN",Hardware Issue,Medium
+SAP transactions are timing out and running very slowly today.,Performance Issue,Medium
+"Hi team, Excel plguin for reporting fails with stacktrace: ORA-8869",Software Bug,High
+Getting 'accuont disabled' message when trying to sign in. Need urgent hepl to join production call.,Account Issue,High
+SAP transactions are timing out and running very slowly today.,Performance Issue,Medium
+Outlook keeps crashing with error 0x8007005 when sending emails.,Software Bug,Medium
+USB ports on the docking station stopped working after last restrt. This is blocking my work and I have deadlines today.,Hardware Issue,High
+My laptop keps shutting down randomly wile working on VPN.,Hardware Issue,Low
+"Hi team, After the latest update, our ERP client freezes on the lgoin screen. tnx",Software Bug,Low
+"Received phishing email asking for bnak details from fake IT support. Potential security breach, please investigate immediately. tnx",Security Incident,Critical
+WiFi keps dropping every few minutes in meeting room A. Entier team is unable to access citical systems.,Network Problem,High
+SAP transactions are timing out and running very slowly today,Performance Issue,Critical
+"Hi team, New jioner asmith neds access to HR poratl with standard perissions.",Access Request,Medium
+Please grant read-only access to Jira for user asmith.,Access Request,Low
+"Hi team, Getting 'account disabed' message when trying to sign in. tnx",Account Issue,Low
+Please grant rea-only access to Confluence for user jdoe.,Access Request,Medium
+"Cannot reach VPN, connection timed out while pinging 10",Network Problem,Critical
+"Multiple failed login attempts detected on my account overnight. Potential security breach, please investigate immediately.",Security Incident,High
+Getting error 'NullReferenceException' whenever I try to sve in the CRM.,Software Bug,Medium
+USB ports on the docking station stopped working after last restart,Hardware Issue,Low
+"Hi team, Please grant read-only access to SAP for user jdoe.",Access Request,Medium
+"The finance app throws HTTP 500 internal server error on login. Needs immediate fix, critical business process impacted.",Software Bug,High
+"Noticed unknown software installed that I did not approve. Potential securiyt breach, please invesigate immediately.",Security Incident,Critical
+The finnace app throws HTTP 500 itnernal server error on login,Software Bug,Low
+Requesting VPN access for contractor asmith for the next 3 months. asap,Access Request,Low
+"Hi team, The finance app throws HTTP 500 internal server error on login. Needs immediate fx, criical business process impacetd. asap",Software Bug,High
+Requesting VPN access for contractor asmith for the next 3 months.,Access Request,Low
+SAP transactions are timig out and running very slowly today,Performance Issue,Medium
+"Hi tema, I lost access to SAP ater rle cahnge, getting accss denied.",Access Request,Low
+Requesting VPN access for conractor m.garcia for the next 3 months. User is blocked from on-boarding tasks.,Access Request,High
+My laptop ekeps shutting down randomly while working on VPN.,Hardware Issue,Low
+Receivde phishing email asking for abnk details from fake IT support.,Security Incident,Low
+"Outlook keeps crasihng with errro 0x80070005 when sneding emails. Needs immediate fix, critical business process impacted.",Software Bug,High
+"Hi team, The finance app throws HTTP 500 internal server error on login",Software Bug,Critical
+"Received phishing email asking for bank dteails form fake IT support. Potential security breach, please investigate immediately.",Security Incident,Critical
+"Hi team, USB ports on the docking station stopped working afer lat restart.",Hardware Issue,Low
+"Hi team, New joiner m.garcia eneds access to SAP with standard permissions. User is blocked from on-boarding atsks.",Access Request,High
+Noticed unknown software installed that I did not approve,Security Incident,Critical
+The finace app throws HTTP 500 internal server errro on lgin.,Software Bug,Medium
+Printer in floor 3 is jammed and shos error code E605.,Hardware Issue,Medium
+"Hi team, Mointor flickers and sometimes goes completely blcak during meetngs. This is blocking my wok and I have deadlines today.",Hardware Issue,Critical
+"Hi team, Multiple failed login attempts detected on my accout overnight",Security Incident,Low
+Getting 'account disabled' message when trying to sign in.,Account Issue,Low
+Antivirus detected Trojan on my machine connetcing to 192.168.0.208.,Security Incident,Medium
+"I lost acess to Salesforce after role change, getting access denied.",Access Request,Medium
+Latncy to our database server at 10.0.14.22 is over 300ms.,Network Problem,Medium
+USB ports on the docking station stopped working after last restart.,Hardware Issue,Low
+Please grant read-only access to VPN for user r.kuar. User is blocked from on-boarding tasks.,Access Request,High
+lPease grant read-only access to VPN for user m.garcia.,Access Request,Medium
+Multiple failed login attempts detected on my account overnight.,Security Incident,Medium
+Multiple failed login attempts detectde on my account overnight.,Security Incident,Medium
+WiFi keps dropping every few minutes in meeting room A.,Network Problem,Medium
+SSO login fais with 'invalid credentials' even after password reset. Need urgent help to join produtcion call.,Account Issue,High
+Reports in BI dashboard take over 5 minutes to load.,Performance Issue,Medium
+Latency to our dtaabase server at 10,Network Problem,High
+Users in branch office report 'DNS_PROBE_FINISHE_DNXDOMAIN' on intranet. Entire tam is unable to access critical systems.,Network Problem,Critical
+Outlook keeps crasihng with error 0x80070005 when sending emails,Software Bug,Medium
+"Laptop is extremely slow, apps take minutes to open. asap",Performance Issue,Medium
+Remote dsektop to production server is laggy and unuable. This is delaying critical month-end processing. asap,Performance Issue,High
+Users in branch office report 'DN_PROBE_FINISHED_NXDOMAIN' on intranet. Entire team is unable to access critical systems.,Network Problem,High
+"Cannot reach VP, connection timed out while pinging 10.0.13.197.",Network Problem,Medium
+Getting error 'NullReferenceException' whenevre I try to save in the CRM.,Software Bug,Low
+"The keyboadr on my desktop is not responding, tried reconnecting USB. This is blocking my work and I have deadlines toady.",Hardware Issue,High
+"Hi team, Password reset link for my account has expired multiple times.",Account Issue,Medium
+"Hi team, SAP transactions are timing out and running very slowly today. This is delayig critical month-end processing.",Performance Issue,High
+My laptop keeps shutting down randomly while worikng on VPN.,Hardware Issue,Medium
+The finance app throws HTTP 500 internal server error on login.,Software Bug,Medium
+"Hi team, Remote desktop to production server is lagy and unusable.",Performance Issue,Medium
+The fnance app throws HTTP 500 internal server error on login,Software Bug,High
+"My AD acount is locked, ca'nt log into Windows or email.",Account Issue,Medium
+WiFi kepes dropping evrey few minutes in meeting room A. Entire team is unable to accss critical systems.,Network Problem,Critical
+Getting 'account disabled' message wen trying to sign in,Account Issue,Critical
+Getting 'account disabled' message when trying to sign in. pls,Account Issue,Medium
+Getting 'account disabled' message when trying to sign in.,Account Issue,Medium
+Requesting VPN access for contractor r.kumar for the netx 3 months.,Access Request,Medium
+Getting 'ccount disabled' message when trying to sign in.,Account Issue,Medium
+Getting 'account disabled' message whn tryng to sign in.,Account Issue,Medium
+Latency to our database server at 10.0.2.165 is over 300ms. Entire tam is unable to access critical systems.,Network Problem,Critical
+Users in branch office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet,Network Problem,Low
+Getting 'account disabled' message when trying to sign in.,Account Issue,Medium
+"Noticed unknown software installed tat I did not approv.e Potential security breach, please investigate immediatley. tnx",Security Incident,Critical
+"Cannot reach VPN, conenction timed out while pinging 10.0.18.31.",Network Problem,Medium
+Users in branch office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet,Network Problem,Medium
+"Hi team, Monitor flickers and sometimes goes completely black during meetings.",Hardware Issue,Medium
+SAP transatcions are timing out and running very slowly today. Thsi is delaying critical month-end processing.,Performance Issue,High
+New jioner mgarcia needs accses to Jra with standard permissions.,Access Request,Low
+SSO login fails with 'invalid credentials' even fater password reset.,Account Issue,Low
+My laptop keeps shutting down randomly while working on VPN.,Hardware Issue,Low
+"Cannot raech VPN, connection timed out while pinging 10.0.2.27. Entire tema is unable to access critical systems.",Network Problem,High
+"The keyboard on my desktop is not responding, tried reconnecting USB.",Hardware Issue,Low
+SAP transactions are timing out and running very slowly todya. This is delaying critical month-end processing.,Performance Issue,High
+"I lost access to VPN after role change, getting access denide",Access Request,Medium
+Multiple failed login attempts detetced on my account overnight.,Security Incident,Medium
+Getting 'account disabled' emssage whn trying to sign in.,Account Issue,Medium
+Password reset link for my account has expired multiple times pls,Account Issue,Medium
+My latop keeps shutting down randomly whle working on VPN.,Hardware Issue,Medium
+Users in branch office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet. Entire tem is unable to access critiacl systems.,Network Problem,Critical
+"Hi team, My AD account is locked, can't log into iWndows or email.",Account Issue,Medium
+Remote desktop to production server is laggy and unusable.,Performance Issue,Medium
+Monitor flickers and sometimes goes completely black during meetings. This is blocking my work and I hae deadlines today.,Hardware Issue,High
+Getting error 'NullReferenceException' whenever I try to save in the CRM,Software Bug,Medium
+Getting intermittent pcket loss when accessing remote edsktop.,Network Problem,Medium
+"Hi team, New joiner jdoe needs access to Salesforce with standard permissions. User is bocked fom on-boarding tasks.",Access Request,High
+Noticed unknown software installed that I did not approve,Security Incident,High
+Getting 'account disabled' message when trying to sign in.,Account Issue,Medium
+"Hi team, Latency to our database servre at 10.0.15.82 is oer 30ms. Entire team is unable to access critical systems.",Network Problem,High
+"I lost accss to VPN after role change, getting access denied.",Access Request,Low
+"Hi team, SAP transactions are timing out and running very slowly today. This is delaying critial monthe-nd processing.",Performance Issue,High
+SAP transactions are timing out and running very slowly tody,Performance Issue,Low
+"Antivirus detected Trojan on my machine conncting to 192.168.2.7. Potential securty brach, please investigate immediately.",Security Incident,High
+"My AD account is locked, can't log into Windows or email.",Account Issue,Low
+"Hi team, Getting error 'NullReferenceException' whenever I try to save in the CRM. asap",Software Bug,Medium
+Latency to our database server at 10.0.9.110 is over 300ms. Entire team is unable to acces critical systems.,Network Problem,High
+"The keyboard on my desktop is not responding, tried reconnecting US. urgnt",Hardware Issue,Medium
+"My AD account is locked, can't log into Windows or email.",Account Issue,Medium
+"Hi team, Cannt reach VPN, connection timed out while pinigng 10",Network Problem,Critical
+"Multiple failed logni attempts detected on my account overnight. Potential security breach, please investigate immediately.",Security Incident,High
+"Ntoiced unknown software installed that I did not appove. Potential security breach, please investigate imediately. pls",Security Incident,High
+Excel plugin for reporting fails with stactrace: ORA-273.,Software Bug,Low
+Getting error 'NullReferenceException' whenever I try to save in the CRM. urgnt,Software Bug,Low
+Monitor flickers and sometimes goes completely blck during meetings.,Hardware Issue,Low
+"I lost access to iJra afer role change, getting access denied.",Access Request,Medium
+Printer in floor 3 is jammed and shows error code E770. This is blocking my owrk and I have deadlines today. asap,Hardware Issue,High
+Users in bracnh office report 'DNS_PROBE_FINISHED_NDXOMAIN' on intrant. Entire tam is unable to access critical systems.,Network Problem,Critical
+Multiple failed login attempts detected on my account overnight,Security Incident,Low
+"Laptop is extremely slow, apps tae miutes to open. This is delaying critical monh-end processing.",Performance Issue,High
+New joiner jdoe needs access to Jira with standard permissions.,Access Request,Low
+"Hi team, Noticed unknown software installed that I did not approve. Potential security breach, please investigate mimediately.",Security Incident,High
+Latency to our database server at 10.0.14.118 is over 300ms. Enire team is unable to access critical systems.,Network Problem,Critical
+Getting intermittent packet lss when accessing remote desktop,Network Problem,Low
+SSO olgin fails with 'invalid credetnials' even after passwrd reset.,Account Issue,Medium
+SAP transactions are timing out and running very slowly today,Performance Issue,High
+"The finance app htrows HTP 500 internal server error on login. Needs immediate fix, critcal business process impacted.",Software Bug,High
+Remote deskotp to production server is laggy and unusable.,Performance Issue,Medium
+rPinter in floor 3 is jammed and shows error code E755. This is blocking my work and I hae deadlnes toda.y,Hardware Issue,High
+"My AD account is locked, can't log into Windows or email.",Account Issue,Low
+"Hi team, USB ports on the docking station stopped owrking after last restrt.",Hardware Issue,Low
+"Multiple failed login atetmpts detected on my account oernight. Potential security breach, pease investigate immediately.",Security Incident,High
+"Hi tea, The finance app throws HTTP 500 internal server eror on logni",Software Bug,Critical
+Reports in BI dashboard take over 5 minutes to load.,Performance Issue,Medium
+Uers in branch office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet. Entie team is unable to access critical sytems.,Network Problem,Critical
+"The keybaord on my desktop is not responding, tried reconnecting USB. This is blocking my work and I hve deadlines today.",Hardware Issue,High
+"The keyboard on my desktop is not rseponding, tried reconnecting USB.",Hardware Issue,Low
+"Noticed unknown software installed that I did not approve. Potential security breach, please investigate immediately.",Security Incident,Critical
+New joiner r.kumar eneds access to HR portal with standard permissions.,Access Request,Low
+Latency to our database server at 10.0.13.246 is ovr 300ms.,Network Problem,Medium
+"Getting error 'NullReferenceException' whenever I try to save in the CRM. Neds immediate fix, critical business process impacted.",Software Bug,High
+"The finance app throws HTTP 500 internal server error on login. Needs immediate fix, critical busness process impacted.",Software Bug,Critical
+"After the latest update, our ERP client freezes on the login screen. Needs immediate fix, critical business rpocess impacted.",Software Bug,High
+Requesting VPN access for contractor m.garcia for the next 3 months.,Access Request,Low
+SAP transactions are timing out and running very slowly today. This is delaying critical month-end processing.,Performance Issue,Critical
+"I lost access to VPN after role cahnge, getting access denied",Access Request,Medium
+"Hi team, USB ports on the docking station stopped working after last restart.",Hardware Issue,Low
+Received phishing emial asking for bak details fom fake IT support.,Security Incident,Medium
+SAP transactions are timing out and runnnig very slowly today,Performance Issue,Medium
+Requesting VPN access for contractor jdoe for the nxet 3 months,Access Request,Low
+Requesting VPN access for cnotractor asmith for the next 3 months. User is blocked from on-boarding tasks.,Access Request,High
+Multiple failed login attempts detected on my account overnight,Security Incident,High
+"Received phihing email aking for bank details from fake IT support. Potential security breach, please investigate immediately.",Security Incident,High
+"My AD account is locked, ca't log into Windows or email",Account Issue,Low
+USB ports on the docking station stoppde working aftr last restart.,Hardware Issue,Low
+"The keyboard on my desktop is not responding, tried reconnecting USB. This is bolcking my work and I have deadlines today.",Hardware Issue,High
+Uses in branch office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet. Entire team is unable to access critical systems.,Network Problem,High
+"Antivirus detected Trojan on my machine connecting to 192.168.8.235. Potential security breach, please investigate immediately.",Security Incident,High
+My laptop keeps sutting down randomly wihle working on VPN. This is blocking my work and I have deadlines today.,Hardware Issue,High
+Please grant read-only access to Jira for user asmith.,Access Request,Medium
+"Hi team, Remote desktop to production servre is laggy and uusable",Performance Issue,Low
+Getting 'account disabled' message when trying to isgn in.,Account Issue,Medium
+Reports in BI dasbhoard take ovre 5 minues to load. tnx,Performance Issue,Medium
+SSO login fails with 'invalid credentials' even after password reset,Account Issue,Medium
+My laptop keeps shutting down randomly while working on VPN.,Hardware Issue,Low
+Please grant read-only access to Salesforce for user m.garcia.,Access Request,Low
+"Cannot reach VPN, connection timed out while pinging 10.0.11.108. nEtire team is unable to access critical systems.",Network Problem,High
+Getting error 'NullReferenceException' whenever I try to save in the CRM,Software Bug,High
+Password reset link for my account has expired multiple times.,Account Issue,Medium
+Monitor flickers and sometimes goes completely black during meetings.,Hardware Issue,Medium
+WiFi keeps dropping every few minutes in meeting room A.,Network Problem,Medium
+Getting reror 'NullReferenceException' whenever I try to save in the RCM.,Software Bug,Low
+My laptop keeps shutting down randomly while working on VPN. This is blocking my work and I have deadlines today.,Hardware Issue,High
+SAP transactions are timing out and running very slowy today. This is delaing critical month-end processing.,Performance Issue,Critical
+Remote desktop to rpoduction sever is laggy and unusable.,Performance Issue,Low
+Reecived phishing email asking for bank deails from fake IT suport.,Security Incident,Low
+"Hi team, Noticed unknonw software installed that I did not aprove",Security Incident,Low
+Getting error 'NullReferenceExcetion' whenever I try to save in the CRM,Software Bug,Critical
+Multiple failed loign attempts detected on my account overnight. tnx,Security Incident,Medium
+WiFi keeps drpoping every few minutes in meeting room A. Entire team is unable to access critical systems.,Network Problem,Critical
+Received phishing email asking for bank details from fake IT support,Security Incident,High
+"Hi team, Password reset link for my acount has expied multiple tmies.",Account Issue,Medium
+Received phishing email asking for bank details from fake IT support.,Security Incident,Medium
+"Hi team, After the latet update, our ERP client freezes on the login screen.",Software Bug,Low
+WiFi keeps dropping every few minutes in meeting room A,Network Problem,Critical
+SSO login fails with 'invald credentials' even after password reset. Need urgent help to join production call.,Account Issue,High
+"After the latest update, our ERP client freezes on the loign screen.",Software Bug,Low
+Monitor flickers and sometimes gose completely black druing meetings. This is blocking my work and I have deadlines toady.,Hardware Issue,High
+My laptop keeps shutting dwon randmoly while working on VNP. urgnt,Hardware Issue,Low
+"Laptop is extremely slw, apps take minutes to open.",Performance Issue,Medium
+"Laptop is extremely slow, aps take minutes to open.",Performance Issue,Medium
+Passowrd reset link for my account has expired multiple times.,Account Issue,Low
+Passowrd reset link for my acocunt has expired multiple times.,Account Issue,Medium
+"The keyboard on my desktop is not respondin,g tried reconnecting USB.",Hardware Issue,Medium
+Latency to our database server at 10.0.1.17 is over 300ms. Enitre team is unable to access critical systems.,Network Problem,Critical
+Reports in BI dashboard take over 5 minutes to load.,Performance Issue,Medium
+USB ports on the docking station stopped working after last restart.,Hardware Issue,Low
+Users in branch office reprt 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet,Network Problem,Critical
+"Hi team, Getting 'accuont disabled' message whn triyng to sign in.",Account Issue,Medium
+"Cannot erach VPN, connection tmed out while pinging 10.0.16.29. Entire team is unable to access critical systems.",Network Problem,Critical
+"Hi team, Password reset link for my account has expired multiple times.",Account Issue,Low
+"Cannot reach VPN, connection timed out while pinging 10.0.5.230. Entire team is unalbe to access critical systems.",Network Problem,High
+"Hi team, Printer in floor 3 is jammed and shos error code E439.",Hardware Issue,Medium
+SSO login fails with 'invalid crednetials' een after password reset,Account Issue,High
+Remote desktop to production server is laggy and unusable urgnt,Performance Issue,Low
+Remote desktop to production server is laggy and unusable,Performance Issue,Low
+"Hi team, Laptop is exremely slow, apps take minutes to open.",Performance Issue,Low
+Users in branch office report 'DNS_PROBE_FINISHED_NDOMAIN' on intranet. Entire team is unable to access critical systems.,Network Problem,Critical
+"Hi team, Requesting VPN access for contrator jdoe for the next 3 months",Access Request,Low
+SAP transactions are timing out and running very slowly toda. This is delaying critical monh-end processing. asap,Performance Issue,High
+Rmeote desktop to produciton server is laggy and unusable,Performance Issue,Low
+USB ports on the docking station stopped working after last restart. pls,Hardware Issue,Medium
+The finance app throws HTTP 500 internal server error on login,Software Bug,Medium
+Outlook keeps crashing with error 0x80070005 when sending emails,Software Bug,High
+Reports in BI dashboard take over 5 minutes to load,Performance Issue,Low
+"Antivirus detcted Trojan on my mchine connecting to 192.168.10.18. Potential security breach, please investigate immediately. asap",Security Incident,High
+"Notcied unknown software installed that I did not approve. Potential security breach, please investigate immediatey. tnx",Security Incident,Critical
+"I lost access to SAP after role chnage, getting acecss denied. User is blocked from on-boarding tasks.",Access Request,High
+"The keyboard on my desktop is not responding, tried reconnecting UBS.",Hardware Issue,Medium
+Please grant read-olny access to Jira for user jdoe,Access Request,Medium
+Getting 'account disabled' messge when trying to sign in.,Account Issue,Low
+"Hi team, After the latest update, our ERP client freezes on the login screen.",Software Bug,Medium
+Requesting VPN acecss for contractor djoe for the next 3 monhts tnx,Access Request,High
+"My AD account is locked, can't log into Windows or email",Account Issue,Low
+"Laptop is etxremely slow, apps take minutes to open.",Performance Issue,Low
+Requesting VPN access for contractor r.kumar for the next 3 months.,Access Request,Medium
+Received phishng eail asking for bank details fom fake IT support,Security Incident,Critical
+"My AD acocunt is lcoked, can't log into Winows or email.",Account Issue,Medium
+My laptop keesp shutting down randomly while working on VPN. This is blocking my work and I have deadlines today.,Hardware Issue,Critical
+USB ports on the docking station stopped working after last restart.,Hardware Issue,Low
+Latency to our database server at 10.0.8.39 is over 300ms. Entire team is unalbe to acecss critical systems. pls,Network Problem,High
+Excel plugin for reporting fails with stacktrace: ORA-3900.,Software Bug,Low
+"Noticed unknown software installed that I did not approve. Potential security breach, please investigate immediately.",Security Incident,Critical
+"Laptop is extremely solw, apps take minutes to open. Tihs is delaying critical month-end processing.",Performance Issue,High
+"Getting error 'NullReferenceException' whenever I try to save in the CRM. Needs immediate fix, citical business process impacted.",Software Bug,High
+USB ports on the docking staiton stopped working aftre last restart.,Hardware Issue,Low
+"Hi team, Laptop is extremely slow, apps take minutes to open.",Performance Issue,Medium
+SSO login fails with 'invalid credentials' even after password reset.,Account Issue,Medium
+"Hi team, Requesting VPN access for contractor rkumar for the next 3 months. tnx",Access Request,Medium
+Outlook keeps crashing with errr 0x80070005 when sending emails.,Software Bug,Medium
+Excel plugin for rporting falis wiht stacktrace: ORA-2897,Software Bug,High
+Received phishing email asking for bank detals from fake IT support. urgnt,Security Incident,Medium
+Received phishing email asking for bank detais from fake IT support,Security Incident,High
+"Laptop is extremely lsow, apsp tkae minutes to opn. This is delaying critical month-end processing.",Performance Issue,High
+"Hi team, Received phishing email aksing for bak details from fake IT support. Potential security breach, please investigate immediately.",Security Incident,High
+Multiple failed login attempts detected on my account overngiht,Security Incident,Critical
+"Antivirus detected Trojan on my machine connecting to 192.168.9.188. Potential security breach, please investigate immediately.",Security Incident,High
+"I lost access to SAP after role change, getting access denied.",Access Request,Medium
+"Cannot reach VPN, connetion timed out whie pinging 10.0.14.178. Entire taem is unable to access critical systems.",Network Problem,Critical
+USB ports on the docking station stopped working aftr last restart. This is blocking my work and I have deadlines today.,Hardware Issue,High
+Latency to our database server at 10,Network Problem,Low
+"Hi taem, Printer in floor 3 is jammed and shows error coed E730",Hardware Issue,High
+"Hi team, Noticed unknown software installed that I did not approve",Security Incident,Medium
+"After the latest update, our ERP client freezes on the login screen. Needs immediate fix, critcial business process impacted.",Software Bug,High
+Monitor flickers and soemtimes goes completely black durng meetings,Hardware Issue,High
+Please grant read-only access to SAP for user jdoe. User is blocked from on-boarding task.,Access Request,High
+"Hi team, USB ports on the dokcing station stopped working after last restart",Hardware Issue,Medium
+"Outloko keeps crashing wih error 0x80070005 when sending emails. Needs immediate fix, critical business process impacetd.",Software Bug,High
+Requesting VPN access for contractor jdoe for the next 3 months.,Access Request,Low
+"I lost access to Jira after role change, getting access denied",Access Request,Medium
+"Laptop is extremely slow, apps take minutes to open.",Performance Issue,Medium
+"Received phishing email asking for bank details from fae IT support. Potential securiyt breach, please investigate immediately.",Security Incident,Critical
+"Hi team, I lost access to Confluence after rle change, getting access denied.",Access Request,Medium
+Geting error 'NullReferenceException' whenever I try to save in the CRM.,Software Bug,Low
+"Multiple failed login attempts deetcted on my account overnight. Potential security breach, plesae investigate immeidately.",Security Incident,Critical
+"Noiced unknown software installed that I did not approve. Potential security breach, pease investigate immediately. tnx",Security Incident,Critical
+Outlook keeps crashing with error 0x80070005 when sending emails,Software Bug,Low
+USB ports on the docknig station stoped working after last restart.,Hardware Issue,Medium
+"Antivirus detected Trojan on my machine connecting to 192.186.5.132. Potential security breach, plase inevstigate immediately.",Security Incident,Critical
+"Laptop is extremely slow, apps take minutes to open. This is delaying crtical month-end processing.",Performance Issue,High
+Laency to our database server at 10.0.12.177 is oer 300ms. Entire team is unable to access critical systems.,Network Problem,Critical
+Remote desktop to prodution serevr is lagyg and unusable.,Performance Issue,Medium
+"Hi team, Getting intermittent packet loss when accessing remote desktop. Entire team is unable to access critical systems. asap",Network Problem,Critical
+Outlook kepes carshing wth error 0x80070005 when sending emails.,Software Bug,Medium
+Printer in floor 3 is jammed and shows error code E411,Hardware Issue,Low
+"Hi team, SSO login afils with 'invalid credentials' even after password reset.",Account Issue,Medium
+Password reset link for my account has expired multiple times,Account Issue,High
+"Laptop is extremely slow, apps take imnutes to open.",Performance Issue,Medium
+Getting intermittent packet loss when accessing remote desktop. urgnt,Network Problem,Medium
+WiFi keeps dropping every few minutes in meeting room A. Entire taem is unbale to acess critical ssytems.,Network Problem,High
+SAP transactions are timing out and running very slowly otday.,Performance Issue,Low
+"My AD account is locked, can't log into Windows or email.",Account Issue,Low
+"Hi team, The keyboard on my desktop is not responding, tried reocnnecting USB.",Hardware Issue,Medium
+Antivirus detected Trojan on my machine connecting to 192,Security Incident,Critical
+"Received phishing email asking for bank details from fake IT support. Potnetial security breach, please investigate immediately.",Security Incident,High
+"Excel plugin for reporting fails with stacktrace: ORA-3967. Needs immediate fix, critical business process impacted.",Software Bug,High
+SAP transactions are timing out and running very slowly today.,Performance Issue,Medium
+Remote desktop to production server is laggy and unusable. tnx,Performance Issue,Low
+"Hi tea, I lost access to SAP after role cange, getting access denied. User is blockd from on-boarding tasks. urgnt",Access Request,High
+Remote desktop to prouction server is laggy and unusable. Ths is delaying critical moth-end processing.,Performance Issue,High
+SAP transactions are timing out and running very slowly today.,Performance Issue,Medium
+"Hi team, Noticed unknown sftware installed that I did not approve",Security Incident,Critical
+New joiner jdoe needs access to VPN with standard permissions.,Access Request,Medium
+Ecxel plgin for reporting fails wiht stacktrace: ORA-2889.,Software Bug,Low
+"Hi team, Password reset link for my account has expired multiple times.",Account Issue,Medium
+SAP transactions are timing out and running very slowy today. asap,Performance Issue,Medium
+"Hi team, Getting error 'NullReferenceException' whenever I try to save in the CRM.",Software Bug,Medium
+SSO login fils with 'invalid credentials' even after password reset. Need urgent help to join produtcion call.,Account Issue,High
+"Hi team, Anivirus detected Trjoan on my machine connecting to 192 pls",Security Incident,High
+Pinter in floor 3 is jammed and shws reror code E331.,Hardware Issue,Low
+"Antivirus detected Trojan on my machine connecting to 192.168.9.92. Potential security breach, please invsetigate immediately. tnx",Security Incident,High
+Antivirus detected Trojan on my machine connecting to 192.168.4.211.,Security Incident,Medium
+"Antivirus edtected Trojan on my machine connecting to 192.168.7.711. Potential security breach, please investigate immediately.",Security Incident,Critical
+Printer in folor 3 is jammed and shos error code E557. This is blocking my work and I hae deadlines tody.,Hardware Issue,High
+Outlook keeps crashing with error 0x80070005 when sending emails.,Software Bug,Low
+Received phising meail asking for bank details from fake IT uspport,Security Incident,Medium
+"The keyboard on my desktop is not responding, tried reconnecting USB.",Hardware Issue,Medium
+Users in banch offce reort 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet,Network Problem,Critical
+WiFi keeps dropping every few minutes in meeting room A,Network Problem,Critical
+"Noticed unknown software installed that I did not appove. Potential security breach, please investigate immediately.",Security Incident,High
+"I lost access to HR portla after role change, getting access denied",Access Request,Low
+Reports in BI dashboard take over 5 minutes to load.,Performance Issue,Medium
+Password reset lik for my account has expired multiple times.,Account Issue,Low
+USB ports on the docking station stopped working after last restart.,Hardware Issue,Low
+"The keyboard on my desktop is not responding, tried reconnecting USB.",Hardware Issue,Medium
+Monitro flickers and sometimes goes completely black during meetings tnx,Hardware Issue,Medium
+Latency to our database srver at 10.0.1.240 is over 300ms. Entire team is unable to access critical systems.,Network Problem,High
+Remote desktop to production server is laggy and unusable. Ths is delaying critical month-end processing.,Performance Issue,High
+Gtting error 'NullReferenceExcepton' whenever I try to save in the CRM.,Software Bug,Medium
+SAP transactions are timing out and running very slowly today.,Performance Issue,Low
+"Hi team, SSO login fails with 'invalid credentials' evne after password reset.",Account Issue,Low
+Reports in BI dashborad take over 5 minutes to load.,Performance Issue,Medium
+"Multiple failed login attempts deected on my account overnight. Potentila security breach, please investigate immediatly. pls",Security Incident,Critical
+"The keyboard on my desktop is not responding, tried reconnecting UB. This is lbocking my work and I have deadlines toda.",Hardware Issue,High
+Remote desktop to production servre is laggy and unusable. This is delaying critical month-end processing.,Performance Issue,High
+"The keyboard on my desktop is not rsponding, tried reconnecting UBS. Ths is blocking my work and I have deadlinse toda. pls",Hardware Issue,Critical
+"Hi team, Users in branh office report 'DNS_PROBE_FINISHED_NXDOMAI'N on intranet.",Network Problem,Medium
+"My AD acconut is locked, can't log into Windows or eamil.",Account Issue,Low
+"Hi team, Outlook ekeps rcashing with error 0x80070005 when sending emails.",Software Bug,Low
+"Hi team, The finance app throws HTP 500 intenal server error on login. Needs immediate fix, critical business process impacted.",Software Bug,High
+Antivirus detected Trojan on my machine connecting to 192.168.1.144.,Security Incident,Low
+New joiner jdoe neesd access to Confluence with stndard permissions. User is blocked rfom on-boarding tasks.,Access Request,Critical
+Requesting VPN access for cotnractor m.garcia for the next 3 months.,Access Request,Medium
+"Hi team, Atnivirus detected Trojan on my machine connecting to 192.168.0.243. Potential security breach, please investigate immedately.",Security Incident,Critical
+"Antivirus detecetd Trojan on my machine cnnecting to 192.168.7.192. Potential security breach, please investigate immediately. pls",Security Incident,High
+"Hi team, Antvirus detected Trojan on my machine connecting to 192.168.8.68. Potential security breach, please investigate immediately.",Security Incident,High
+Getting error 'NullReferenceException' whenever I try to save in the CRM.,Software Bug,Medium
+New joiner r.kumar needs access to Jira with standard permissions. User is blcked from on-boarding tasks. pls,Access Request,Critical
+"After the latest update, our ERP client freezes on the login screen.",Software Bug,Medium
+"Cannot reach VPN, connection timed out while pinging 100.13.71. Entire team is unable to access critical systems.",Network Problem,High
+My laptop keesp shutting down randomly while working on VPN,Hardware Issue,High
+Remote desktop to production server is laggy and unusable.,Performance Issue,Medium
+"Hi team, My AD account is olcked, can't log into Windows or email",Account Issue,Low
+"Hi team, My AD account is locked, can't log ino Windows or email",Account Issue,Medium
+Reoprts in BI dashboard take over 5 minutes to load. This is delaying critical month-end processing.,Performance Issue,High
+Requeting VPN access for contractor r.kumar for the next 3 months.,Access Request,Low
+Remote desktop to production server is laggy and unusable. This is delaying crtical month-end processing.,Performance Issue,High
+Plase grant read-only access to Jira for suer r.kumar.,Access Request,Medium
+Antivirus detected Trjan on my machine connecting to 192.168.0.198.,Security Incident,Medium
+Getting 'account disabled' mesage when trying to sign in. Need urgent help to join production call.,Account Issue,High
+Remote desktop to production server is laggy and unusable. This is delaying critical monh-end procesing.,Performance Issue,High
+"The keyboard on my desktop is not responding, tried reconnecting USB.",Hardware Issue,Low
+"The keyboard on my desktop is not responding, tried reconnecting USB. This is blocking my work and I have deadlines today.",Hardware Issue,High
+Multiple failed login attempts detected on my accunt overngiht.,Security Incident,Medium
+Latnecy to our database server at 10.0.11.90 is over 300ms.,Network Problem,Low
+"Antivirus detected Trojan on my machine connecting to 192.168.6.33. Potenital secruity breach, please investigate immediately.",Security Incident,High
+"Laptop is extremely slow, apps take minutes to open. This is dealying critical month-end processing.",Performance Issue,Critical
+"My AD account is locked, can't log ito Windows or email",Account Issue,Medium
+"Hi team, Getting 'account disabled' message when trying to sin in.",Account Issue,Low
+Users in branch ofice reort 'DNS_PROBE_FINISHED_NXDOMAIN' on intrant. Entire team is unable to access critical systems.,Network Problem,High
+Users in branh office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet.,Network Problem,Low
+"Hi team, WFi keeps dropping every few minutes in meetig room A. Entire team is unable to access critical systems.",Network Problem,High
+Getting error 'NullReferenceException' whenever I try to save in the CRM.,Software Bug,Medium
+"The keyboard on my desktop is not responding, tried reconnecting USB",Hardware Issue,High
+Reports in BI dashboard taek over 5 minutes to load.,Performance Issue,Medium
+Requesting VPN access for contractor asmith for the net 3 months. User is blocked from on-boarding tasks.,Access Request,High
+My laptop keps shutting down radomly while working on VPN. This is blocking my work and I have deadlines today.,Hardware Issue,High
+Password reset lnik for my accuont has expired mlutiple times. Need urgent hepl to join production call.,Account Issue,High
+Reports in BI dashboard take over 5 minutes to load. This is delaying critical month-end processing.,Performance Issue,High
+Getting error 'NullReferenceException' wheneevr I try to save in the CRM urgnt,Software Bug,High
+"Hi team, Requesting VPN access for contractor jdoe for the net 3 months.",Access Request,Medium
+"Antivirus detecetd Trojan on my machine connecting to 192.168.10.48. Potential secruity breach, please investigate immediately.",Security Incident,Critical
+"Antivirus detected Trojan on my machine connecting to 192.168.0.122. Potential security breach, pleae investigate immediately.",Security Incident,High
+"Getting error 'NullReferenceExcepton' whenever I try to save in the CRM. Nedes immediate fi,x critical business process impacted.",Software Bug,Critical
+"Afetr the latest update, our ERP cient freezes on the loign screen.",Software Bug,Medium
+Reports in BI dashboard take over 5 minutes to load. This is delaying critical omnth-end processing.,Performance Issue,High
+Users in branch office report 'DNS_PROBE_FINISHED_NXDOMANI' on intranet. Enire team is unable to access critical systems.,Network Problem,Critical
+My laptop keeps shutting down randomly while working on VPN. This is blocking my work and I have deadlines today.,Hardware Issue,High
+"After the latest update, our ERP client freezes on the olgin screen.",Software Bug,Medium
+Outlook keeps crashing wth error 0x8070005 when sending emails asap,Software Bug,Medium
+"Cannot reach VPN, connection timed out while pnging 10.0.13.132.",Network Problem,Medium
+"Received phishing email asking for bank details from fake IT support. Potential security breach, please investigate immedately.",Security Incident,High
+"Hi team, Outlook keeps crashing with error 0x80070005 when sending emails.",Software Bug,Low
+"Hi team, Cannot reach VPN, connection timed out whle pinging 10.0.10.80.",Network Problem,Medium
+"Hi team, Rceived phihsing email asking for bak details form fake IT support pls",Security Incident,High
+"Multiple faied login attempts detected on my account overnight. Potential security breach, please investigate immediately.",Security Incident,Critical
+Remote desktop to production server is lagy and unusable. asap,Performance Issue,Medium
+SAP transactions are tiing out and running vrey lsowly tday,Performance Issue,Medium
+Monitor flickesr and sometimes geos completely black during meetings,Hardware Issue,Medium
+"Hi team, USB ports on the docking station stopped working after last restart.",Hardware Issue,Low
+"I lost access to Confluence aftre role change, getting access ednied",Access Request,Low
+Getting intermittent apcket loss whn accessing remote desktop.,Network Problem,Low
+SAP transactions are timing out and running very slowly today tnx,Performance Issue,Critical
+"Hi team, Antivirus detected Trojan on my machine connecting to 192.168.0.168. Potential security breach, please investigate immediately.",Security Incident,High
+Getting 'account disabled' message when trying to sign in.,Account Issue,Medium
+"Antivirus detected Trojan on my machine connecting to 192.168.0.172. Ptential security breach, please investigate immediately.",Security Incident,Critical
+SAP transactions are timing out and running very slowly today. This is delaying critical mnth-end processing.,Performance Issue,High
+"After the latset update, our ERP client freezes on the login screen. Needs immediate fix, critical business process impacted.",Software Bug,High
+"My AD accoutn is locked, can't log into Windows or email.",Account Issue,Medium
+"Hi team, My laptop keeps shutting down randomly while working on VPN",Hardware Issue,High
+Received phishing email asking for bank details from fake IT support,Security Incident,Low
+"Laptop is extremely slow, apps take minutes to open.",Performance Issue,Low
+"The keboard on my desktop is not responding, tried reconnecting USB.",Hardware Issue,Low
+"Hi team, Please grant read-only access to SAP for user m",Access Request,Medium
+Reports in BI dashboard take oevr 5 minutes to load. This is delaying criticla month-end processing.,Performance Issue,High
+"Hi team, Antivirus detected Trojan on my machine connecting to 192.168.7.230. Potential security breach, plese investigate immediately.",Security Incident,High
+"Hi team, Getting intermittent packet olss when accessing remote desktop. Entre team is unable to access critical systems.",Network Problem,Critical
+Remote deskop to production server is laggy and unusable.,Performance Issue,Medium
+"Noticed unknown software installed that I did not approve. Potential security breach, please investigate immediately.",Security Incident,Critical
+Requesing VPN access for contractor r.kumar for the next 3 months.,Access Request,Medium
+Excel plgin for reportnig fails with stacktrace: ORA-2092,Software Bug,Low
+SAP transactions are timing out and running very slowly today.,Performance Issue,Low
+"Cannot reach VPN, connection tied out while pinging 10.0.0.60. Entire team is unable to access critical sstems.",Network Problem,Critical
+Requesting VPN access for contractor asimth for the next 3 months,Access Request,Medium
+"Hi team, Antivirus detected Trojan on my machine connecting to 192.168.9.154. Potential security breach, please investigate immediately.",Security Incident,Critical
+My lptop keeps shutting dwn randomly while working on VPN.,Hardware Issue,Medium
+"Hi team, Getting 'account disabled' message when trying to sign in. urgnt",Account Issue,Medium
+"Outolok keeps crashing with errr 0x80070005 whne seding emails. Needs immediate fix, critical business process impacted.",Software Bug,High
+Getting intermittent packet loss when accessing reomte desktop. Entire team is unable to access critical systems.,Network Problem,Critical
+"Hi team, I lost access to Jira after role change, getting access denied.",Access Request,Medium
+Getting 'account disabled' messaeg when trying to sgn in. Ned urgent hepl to join production call.,Account Issue,High
+Latency to our database server at 10,Network Problem,High
+"Hi team, Noticed unknown sfotware installed that I did not approve. Potential security breach, please investigate immediatel.",Security Incident,Critical
+Getting 'account disabled' message when trying to sign in,Account Issue,Low
+Reorts in BI dashboard take over 5 minutes to load.,Performance Issue,Medium
+"Hi team, After the latest update, our ERP client freezes on the login screen. Needs immediate fix, critical business proces impacted.",Software Bug,High
+"Multiple failed login attempts detected on my account overnight. Potential seucrity berach, please investigate immediately.",Security Incident,High
+SAP transactions are itming out and running very slowly today,Performance Issue,High
+Passwodr reste link for my account has expired multipel times.,Account Issue,Low
+"Excel lpugin for reporting fails with stacktrace: ORA-4828. Needs immedaite fix, critical business process impacted.",Software Bug,High
+"Hi team, Password reset link for my account has expired multiple timse.",Account Issue,Low
+Gettnig intermittent packet loss when accessing remote desktop. Entire team is unable to acces critical systems.,Network Problem,High
+SAP transactions are timing out and rnuning very slowly today. asap,Performance Issue,Low
+Password reset lnk for my account has expired multipe tmes,Account Issue,Low
+"Hi team, Uers in branch ofice report 'DNS_PROBE_FINISHED_NXDOMAIN' on intraet. Entire team is unable to acces critical systems.",Network Problem,High
+Excel plugin for reporting fails with stacktrace: ORA-5454.,Software Bug,Medium
+SSO login fails wth 'invalid credentials' veen after password rese.,Account Issue,Medium
+"Hi tema, Requesting VPN access for contractor asmith for the nxt 3 months.",Access Request,Medium
+"Hi team, New joier r.kmar needs access to Jira with standard permissions. User is blocked from on-boarding tasks.",Access Request,High
+Reports in BI dashobard take over 5 minutes to load. hTis is delaying critical month-end processing.,Performance Issue,High
+"Hi team, Excel plugin for reporting fails with stcaktrace: ORA-3158.",Software Bug,Medium
+WiFi keeps dropping evry few minutes in meeting room A. Entire team is unale to access critical systems.,Network Problem,High
+"Cannot reach VPN, connection timed out wile pinging 10.0.20.40. Entire team is unable to access critical systems.",Network Problem,High
+"The finance app thrws HTTP 500 internal server error on login. Needs immediate fix, critical business proces impacted.",Software Bug,Critical
+"Laptop is extremely slow, apps take minues to open.",Performance Issue,Medium
+"Hi team, Laptop is extremely slow, apps take minutes to poen.",Performance Issue,Medium
+WiFi keeps dropping evey few minutes in emeting room A.,Network Problem,Medium
+Usrs in branch office report 'DNS_PROB_EFINISHED_NXDOMAIN' on intranet. Entire team is unable to acess critical systems.,Network Problem,High
+Please garnt read-only access to Jira for user jdoe,Access Request,Medium
+Please grant read-only access to Confluence for user asmith. User is blocked form on-boarding tasks.,Access Request,High
+"Laptop is extremely slow, apps take minutes to open. This is delaying critical month-end processing.",Performance Issue,High
+SAP transactions are tiing out and running very slwly today tnx,Performance Issue,Critical
+"Hi taem, My AD account is locked, can't log into Windwos or email. pls",Account Issue,Medium
+"Hi team, Usres in branch office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet.",Network Problem,Medium
+New joiner asmih needs access to Salesforce with standard permissions.,Access Request,Medium
+Requesting VPN access for contractor m.garcia for the enxt 3 months.,Access Request,Medium
+"The keyboard on my desktop is not responding, tried reconnecting USB. This is blocking my work and I have deadlines today. tnx",Hardware Issue,High
+"Hi team, Reports in BI dashboard take over 5 minutes to olad. Tis is delaying critical monthe-nd processing.",Performance Issue,High
+"Hi tea, Password reset link for my account has expired multiple times.",Account Issue,Low
+"Multiple afiled login attempts detected on my account overnight. Potetial security breach, please investigate imediately.",Security Incident,Critical
+Requesting VPN access for contractor r.kumar for the next 3 months.,Access Request,Medium
+"Hi team, Please grant read-only access to Confluence for user jdoe.",Access Request,Medium
+SSO login fails with i'nvalid credential's even after password reset. tnx,Account Issue,Low
+"Hi team, Requesting VPN access for contractor m.garcia for the next 3 months. User is blocked frmo on-borading tasks.",Access Request,High
+Getting 'account disabled' message when trying to sign in.,Account Issue,Medium
+"The kebyoard on my deskop is not responding, tried reconnecting USB.",Hardware Issue,Low
+"Hi team, The finance app thrwos HTTP 500 internal server error on login.",Software Bug,Medium
+SSO login fails with i'nvalid credentials' even aftr apssword reset. Need urgent help to jion production call.,Account Issue,Critical
+"Hi team, Noticed unknown software installed tat I did not approve. Potential security breach, please investigate immediately.",Security Incident,High
+My laptop keeps shutting down randomly while wroking on VPN.,Hardware Issue,Low
+"I lost access to Confluence after role change, getting acess denied",Access Request,Low
+My laptop keeps shutting down randomly while working on VPN.,Hardware Issue,Medium
+"Hi team, Requesting VPN access for contractor m",Access Request,Low
+Excel plugin for repoting fails with stacktrace: ORA-5026.,Software Bug,Low
+"My AD account is locked, can't log ito Windows or email.",Account Issue,Low
+Geting 'account disabled' message wen trying to isgn in.,Account Issue,Medium
+"Hi team, Remote destop to proudction server is laggy and unusable.",Performance Issue,Medium
+Remote desktop to production server is laggy and unusable,Performance Issue,High
+New joiner jdoe needs access to Salesofrce with standard permissions,Access Request,Medium
+SSO login fails wth 'invalid credentials' een after password reset. Need urgent help to join production call.,Account Issue,High
+Received phishing email asking for bank details from fake IT supoprt.,Security Incident,Medium
+Monitor flickers and someimes goes completely black duirng meetings. This is blocking my wrk and I have deadlines today.,Hardware Issue,High
+Requeting VPN acess for contractor asmith for the next 3 months.,Access Request,Medium
+"Hi team, Outlook keeps crashing wih error 0x80700005 when sending emails. Needs immediate fix, critical business process impacted.",Software Bug,High
+Getting 'account disabled' messge when trying to sign in.,Account Issue,Medium
+"Anivirus detected Trojan on my machie connecting to 192.168.10.117. Potential security breach, please investigate immediately.",Security Incident,High
+"I lost access to SAP after rloe change, getting access dnied.",Access Request,Low
+"My AD account is locked, can't log into Windows or email. tnx",Account Issue,Medium
+Users in branch office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet.,Network Problem,Medium
+"Multiple failed login attempts detected on my account overnight. Potential security breach, please investigate immediately.",Security Incident,Critical
+"Hi team, Requesting VPN acecss for contractor jdoe for the next 3 montsh.",Access Request,Low
+"Hi team, Mltiple failed login attempts detected on my account overnight. Potential security breach, please investigate immediately. asap",Security Incident,High
+SAP transactions are timing out and running very slowly toay.,Performance Issue,Low
+"Outlook keeps crashing with error 0x80070005 when sending emails. Needs immediate fix, critical business proces impacted.",Software Bug,High
+"Hi team, Cannot rech VPN, connection tied out while pinging 10.0.6.73.",Network Problem,Medium
+"My AD account is locked, can't log into Windows or email. urgnt",Account Issue,Medium
+Received phishing email asikng for bank deatils from fake IT support.,Security Incident,Low
+Getting intermittent packet loss when accessing remote desktop. Entire tam is unable to access critical systems.,Network Problem,High
+Password reset link for my account has expired multiple times.,Account Issue,Low
+SAP transactions are timing out and runing very slowly today.,Performance Issue,Low
+Oulook ekeps crashing with error 0x80070005 when sending emaisl,Software Bug,Medium
+"Hi tea, The keyboard on my desktop is not responding, tried reconnecting USB.",Hardware Issue,Medium
+SSO login fails with 'invalid credentials' even after password reset.,Account Issue,Medium
+Password reset link for my account has expired multple times. pls,Account Issue,Low
+WiFi kepes dropping every few miuntes in meeting room A. Entire team is unable to access critical system.s,Network Problem,Critical
+"Noticed unknown softwaer installed that I did not approve. Potential security berach, please investigate immediately.",Security Incident,Critical
+New joiner r.kumar needs access to VPN wih standard permissions.,Access Request,Medium
+Reports in BI dashboard take over 5 minutes to loa.,Performance Issue,Low
+Getting 'account disabled' msesage when trynig to sign in.,Account Issue,Medium
+"Hi team, Password reset link for my account has expired multiple times.",Account Issue,Medium
+USB ports on the docking station stopped working after last restart,Hardware Issue,Medium
+Noticed unknon software installde tht I did not approve.,Security Incident,Medium
+"Hi tea,m Cannot rach VPN, connection timed out while pinging 10.0.1.126. Etnire tem is unale to access critical systems. asap",Network Problem,High
+"Hi team, Please grant read-only acess to Confluence for user asmith.",Access Request,Medium
+Antivirus detected Trojan on my machine connecting to 192.168.9.110.,Security Incident,Medium
+Gettng 'account disabled' message when trying to sing in.,Account Issue,Low
+"Hi etam, Excel plugin for reporting fails with stacktrace: ORA-1796. Needs immediate fix, critical business process ipmacted.",Software Bug,High
+Printer in floor 3 is jammed and shows error code E239. This is blocking my work and I have deadlines today.,Hardware Issue,High
+USB prts on the docing station stopped working after last restart,Hardware Issue,Critical
+"Laptop is extremely slow, apps take minutes to open.",Performance Issue,Low
+The finance app throws HTTP 500 internal server error on login,Software Bug,Low
+"Hi team, Uers in branch office report 'DNS_PROBE_FINISHD_NXDOMAIN' on intranet. Entire team is unable to access critical systems.",Network Problem,High
+Getting error 'NulleRferenceException' whenever I try to save in the CRM.,Software Bug,Medium
+"Hi team, WiFi keeps dropping every few miutes in meeting room A. Entire team is unable to access critical sysems.",Network Problem,High
+Users in branch office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intrant. Entire team is unable to access critical systems.,Network Problem,Critical
+Requesing VPN access for contractor r.kumar for the nxet 3 months. User is blcked from on-boarding takss.,Access Request,Critical
+"My AD account is locked, can't log into Windows or email.",Account Issue,Low
+Requesting VPN access for contractor jdoe for the next 3 months.,Access Request,Medium
+USB pors on the docking statin stopped working after last restart,Hardware Issue,Critical
+Printer in floor 3 is jammed and shows error cdoe E82.,Hardware Issue,Low
+Please grant erad-only access to SAP for user samith,Access Request,Medium
+Latency to our database server at 10.0.8.157 is over 300ms. Entire team is unable to acces critical systems.,Network Problem,High
+Excel plugin for reporting fails with stactkrace: ORA-7581,Software Bug,Medium
+Password reset lnk for my account has expired multiple times.,Account Issue,Medium
+Excel plugin for reporting fails with stacktrace: ORA-4218.,Software Bug,Medium
+SSO login fails wtih 'invalid credentials' even after passwod reset.,Account Issue,Low
+"Noticed unknown software installed that I did not approve. Potential security breah, please investigaet immediately.",Security Incident,Critical
+"Hi team, Users in branch offiec report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet. Entire team is unable to access critical systems. tnx",Network Problem,High
+Getting 'account disabled' message when trying to sign in.,Account Issue,Medium
+"The finance app throws HTTP 500 internal server error on login. Needs immediae fi,x critical business process impacted.",Software Bug,Critical
+Reports in BI dashboard take over 5 minutes to load. This is delaying crtical month-end processing.,Performance Issue,High
+Getting intermittent pcket loss when accessing remote desktop. Entire team is unable to acces criticla systems.,Network Problem,High
+"Multiple failed login attempts detected on my account overnight. Ptential sceurity brach, please investigate immediately.",Security Incident,High
+"fAter the latest update, our ERP cient freees on the login screen. Needs immediate fix, critical business prcoess impacted.",Software Bug,High
+"Laptop is extremely slow, apps take minutes to open.",Performance Issue,Low
+"Hi team, The finance app throws HTTP 500 internal server error on lgin",Software Bug,High
+"Hi team, The finance app throws HTTP 500 internal server error on logn.",Software Bug,Medium
+"My AD accunt is locked, can't log into Windows or email. Need urgent help to joni prodcution call.",Account Issue,Critical
+Users in branch office report 'DNS_PROBE_FINISHED_NXDOMAIN' on intranet. Entire team is unable to access critical systems.,Network Problem,High
+Getting 'account disabled' message when tryign to sgn in. pls,Account Issue,Low
+"I lost accss to SAP after role change, getting access denied. User is blokced from on-boarding tsaks.",Access Request,Critical
+"Hi team, Remote desktop to production server is laggy and unusable.",Performance Issue,Low
+Reports in BI dashboard take over 5 minutes to load. This is delaying critical month-end processing.,Performance Issue,High
+"eGtting error 'NullReferenceException' whenever I try to save in the CRM. Needs immediate fix, critical business porcess impacted.",Software Bug,Critical
+Monitor flickers and sometimes goes completely black during meetings.,Hardware Issue,Low
+Getting 'account dsabled' message when trying to sign in.,Account Issue,Low
+"Hi team, New jonier jde needs access to Confluence with standard permission.",Access Request,Medium
+SAP transactions are timing out and running very slowly today.,Performance Issue,Medium
+Monitor flickers and sometimes goes comletely black during meetings.,Hardware Issue,Medium
+"Noticed unnown software installed that I did not approve. Potential security breach, please investigate immediately.",Security Incident,High
+"Hi team, Please grant read-only access to SAP for suer r.kumar.",Access Request,Low
+"My AD account is loked, cant log into Windows or email. urgnt",Account Issue,Low
+Getting error 'NullReferenceException' whenever I try to save in the CRM.,Software Bug,Medium
+"Hi tema, Printer in floor 3 is jammed and shows error code E352. This is blocking my wrk and I hae dadlines today.",Hardware Issue,Critical
+"Hi team, The finance app throws HTTP 500 internal server error on login",Software Bug,Medium
+"I lost access to SAP after role change, getting access denied.",Access Request,Medium
+WiFi keeps dropping eery few minutes in meeting room A,Network Problem,Critical
+"Hi team, Gettng error 'NullReferenceException' whenever I try to save in the CRM.",Software Bug,Medium
+"Noticed unknown softwre installed that I did not approve. Potential security breahc, pleaes investigate immediately.",Security Incident,High
+"The keybaord on my desktop is not responding, tried reconnecting USB. This is blocking my work and I have deadilnes today.",Hardware Issue,High
+Getting 'account disabled' message when trying to sgn in.,Account Issue,Medium
+"Hi team, Received phishing email asing for bank details from fake IT support urgnt",Security Incident,High
+New joiner asmith needs access to SAP with standard permissios. User is blocked from on-boarding tasks.,Access Request,High
+Remote desktop to production server is laggy and unusable,Performance Issue,High
+"My AD account is locked, can't log into Windows or email.",Account Issue,Low
+"Received phishing email askng for bank details fom fake IT suppor.t Potential securiy breach, please investigate immediately.",Security Incident,Critical
+Outlook keeps crashing with eror 0x80070005 when sending emails.,Software Bug,Medium
+Remote dsktop to prodcution server is laggy and unusable.,Performance Issue,Medium
+SSO login fails with 'invalid credentials' even after password reset.,Account Issue,Low
+Please grat read-only acces to HR portal for user jdoe.,Access Request,Medium
+Remote desktop to production servr is laggy and unusable. This is dleaying critical month-end procesing.,Performance Issue,High
+Getting intermittent packet loss when accessing rmote desktop,Network Problem,Critical
+Antivirus detected Trojan on my mahine connecting to 192 asap,Security Incident,Critical
+Pasword reset link for my account has expired multiple tims.,Account Issue,Medium
+"After the latest update, our ERP client freezes on the loin screen.",Software Bug,Medium
+Printer in floor 3 is jammed and shows error code E230,Hardware Issue,High
+WiFi keeps dropping every few minutes in meeting room A. Entire etam is unable to access critical systems.,Network Problem,Critical
+The finance app thrwos HTTP 500 internal server error on login.,Software Bug,Medium
+"Hi team, Received phishing email asking for bank details from fake IT support. Potential securtiy breach, please investigate immediately.",Security Incident,Critical
+Latency to our database server at 10.0.1.132 is over 30ms. Entire team is unale to access critical systems. pls,Network Problem,High
+Multiple failed login attempts detected on my account overnight,Security Incident,Critical
+Getting intermittent packet loss when accessign remote dsktop. Enitre etam is unable to acess critical systems.,Network Problem,Critical
+"My AD account is locked, can't log into Windows or email.",Account Issue,Medium
+"The keyboadr on my desktop is not respondng, tried reconnecting USB.",Hardware Issue,Medium
+Received phishing email asking for bank detials from faek IT support,Security Incident,Critical
+Monitor flickers and sometiems goes completely black during meeting.s pls,Hardware Issue,Medium
+WiFi keeps dropping every few minutes in meeting orom A. Entire team is unable to access critical sysetms.,Network Problem,High
+Latency to our database server at 10,Network Problem,Critical
+Printer in floor 3 is jamemd and shows error code E764. asap,Hardware Issue,Medium
+Remote desktop to production server is laggy and unusable. This is delaying critical monh-end processing.,Performance Issue,High
+"Laptop is extrmeely slow, apps take minutes to open.",Performance Issue,Medium
+Antivirus deected Trojan on my machine connecting to 192.168.9.19.,Security Incident,Low
